@@ -83,8 +83,8 @@ Tripartite Guide) into practice.
     :alt: alternate text
     :figclass: align-center
 
-   Fig. 1: Connection between the Tripartite Guide and the four principles of the OHS Codex. 
-   The OHS Codex principles and their dimensions are indicated by coloured arrows. The icons correspond to the guiding icons from the Tripartite Guide.
+    Fig. 1: Connection between the Tripartite Guide and the four principles of the OHS Codex. 
+    The OHS Codex principles and their dimensions are indicated by coloured arrows. The icons correspond to the guiding icons from the Tripartite Guide.
 
 
 
