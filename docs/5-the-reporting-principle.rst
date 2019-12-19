@@ -44,13 +44,18 @@ Consensus Report Annotation Checklist (CRAC)
    involved parties.
    https://docs.google.com/document/d/116-_olJtIqdE2sMkyNWy_9wnSI-ciTCRyLaiA9aWLu0/edit?usp=sharing
 
-   |image3|
-
-Fig. 1: Schematic drawing of CRAC that is proposed to map and structure
-metadata in OH surveillance reports. Orange arrows indicate the mapping
-of metadata from federal/national systems (top) and
-European/international stakeholders (bottom) systems to the proposed
-CRAC.
+.. figure:: ../assets/img/20191912_OHS_CRAC.png
+    :width: 6.28229in
+    :align: center
+    :height:  3.98799in
+    :alt: alternate text
+    :figclass: align-center
+   
+    Fig. 1: Schematic drawing of CRAC that is proposed to map and structure
+    metadata in OH surveillance reports. Orange arrows indicate the mapping
+    of metadata from federal/national systems (top) and
+    European/international stakeholders (bottom) systems to the proposed
+    CRAC.
 
 National OHS Report Templates
 '''''''''''''''''''''''''''''

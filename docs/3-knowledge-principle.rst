@@ -85,7 +85,9 @@ OH Knowledge Base - Epi
    resources and will therefore be linked to the inventories (1) and (2)
 
    Links:
-   https://statmethods.shinyapps.io/toolsdatabase/\ https://joerngethmann.shinyapps.io/OrionAHS/
+
+- https://statmethods.shinyapps.io/toolsdatabase/
+- https://joerngethmann.shinyapps.io/OrionAHS/
 
 OH Knowledge Base - NGS
 '''''''''''''''''''''''

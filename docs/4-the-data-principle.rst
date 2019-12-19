@@ -205,6 +205,6 @@ Examples & Lessons learned
 
 
 
-.. |image2| image:: media/image3.png
+.. |image2| image:: ../assets/img/20191912_OHS_Data.png
    :width: 6.27083in
    :height: 1.97222in
