@@ -185,10 +185,11 @@ available.
    Taking a Multisectoral, One Health Approach:A Tripartite Guide to
    Addressing Zoonotic Diseases in Countries
 
-.. |image0| image:: media/image4.png
+.. |image0| image:: ../assets/img/20190812_Tripartite_OHS_CODEX_adapted.png
    :width: 6.28229in
+   :align: center
    :height: 3.98799in
-.. |image1| image:: media/image1.png
+.. |image1| image:: ../assets/img/20190823_updated_OHS_CODEX_figure.png
    :width: 6.27083in
+   :align: center
    :height: 4.69444in
-
