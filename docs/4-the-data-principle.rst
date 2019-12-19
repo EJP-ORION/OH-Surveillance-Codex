@@ -181,6 +181,30 @@ Examples & Lessons learned
    reported here.
 
 
+
+.. rubric:: Reference
+
+.. [11]
+   Findable, Accessible, Interoperable, Reusable.
+   https://www.force11.org/group/fairgroup/fairprinciples
+
+.. [12]
+   HIMSS Dictionary of Healthcare Information Technology Terms, Acronyms
+   and Organizations, 2nd Edition, 2010, Appendix B, p190
+
+.. [13]
+   Natalya F. Noy and Deborah L. Mcguinness. 2001. Ontology Development
+   101: A Guide to Creating Your First Ontology. Available at
+   http://protege.stanford.edu/publications/ontology\_development/ontology101.pdf
+
+.. [14]
+   https://www.w3.org/OWL/
+
+.. [15]
+   https://www.w3.org/RDF/
+
+
+
 .. |image2| image:: media/image3.png
    :width: 6.27083in
    :height: 1.97222in
