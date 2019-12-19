@@ -76,12 +76,17 @@ Countries” [10]_ (Tripartite Guide) by proposing specific resources that
 support putting a true One Health approach (as described in the
 Tripartite Guide) into practice.
 
-|image0|
+.. figure:: ../assets/img/20190812_Tripartite_OHS_CODEX_adapted.png
+    :width: 6.28229in
+    :align: center
+    :height:  3.98799in
+    :alt: alternate text
+    :figclass: align-center
 
-Fig. 1: Connection between the Tripartite Guide and the four principles
-of the OHS Codex. The OHS Codex principles and their dimensions are
-indicated by coloured arrows. The icons correspond to the guiding icons
-from the Tripartite Guide.
+   Fig. 1: Connection between the Tripartite Guide and the four principles of the OHS Codex. 
+   The OHS Codex principles and their dimensions are indicated by coloured arrows. The icons correspond to the guiding icons from the Tripartite Guide.
+
+
 
 Target community, main stakeholders and organizations
 -----------------------------------------------------
@@ -125,10 +130,17 @@ Users of this guide are invited to take the provided methods as
 practical examples that can be adapted to their contexts, needs, and
 requirements.
 
-|image1|
+.. figure:: ../assets/img/20191112_OHS-Codex_figure.png
+    :width: 6.27083in
+    :align: center
+    :height:  4.69444in
+    :alt: alternate text
+    :figclass: align-center
 
-Fig. 2: The overview of the OHS Codex framework (figure download as
-pptx-file: https://data.d4science.net/qYrU )
+    Fig. 2: The overview of the OHS Codex framework (figure download as
+    pptx-file: https://data.d4science.net/qYrU )
+
+
 
 Principles
 ----------
