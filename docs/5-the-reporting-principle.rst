@@ -73,7 +73,3 @@ Examples & Lessons learned
    test the Reporting principles within a cross sectional approach.
    Findings from these pilot studies will be reported here.
 
-
-.. |image3| image:: media/image2.png
-   :width: 4.1033in
-   :height: 2.70313in
