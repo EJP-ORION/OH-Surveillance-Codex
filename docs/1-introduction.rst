@@ -144,3 +144,12 @@ from the beginning into the OHS Codex document. As the OHS Codex is
 designed itself as an updatable online resource and it will be
 continuously extended as soon as new useful methods & solutions become
 available.
+
+
+.. |image0| image:: media/image4.png
+   :width: 6.28229in
+   :height: 3.98799in
+.. |image1| image:: media/image1.png
+   :width: 6.27083in
+   :height: 4.69444in
+
