@@ -76,7 +76,7 @@ Countries” [10]_ (Tripartite Guide) by proposing specific resources that
 support putting a true One Health approach (as described in the
 Tripartite Guide) into practice.
 
-.. figure:: ../assets/img/20190812_Tripartite_OHS_CODEX_adapted.png
+.. figure:: ../assets/img/2020108_Tripartite_OHS_CODEX_adapted.png
     :width: 6.28229in
     :align: center
     :height:  3.98799in
