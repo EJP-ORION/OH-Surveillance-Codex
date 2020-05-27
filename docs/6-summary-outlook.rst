@@ -20,16 +20,16 @@ areas:
 2. Plan, execute or improve joint surveillance efforts that consider the
       OH needs right from the beginning.
 
-To support such practical steps the OHS Codex has been designed sich,
-that it can act as a resource itself, i.e. it provides a collection of
-methods, tools and resources that could be used or customized by
-interested institutions. Compared to the guidance available in the
-Tripartite Guide the OHS Codex focus on the needs of national European
-institutions. It has also been designed as a living document, so that it
-can be updated continuously. The OHS Codex framework specifically takes
-into account that implementation of improvements into established
-surveillance routines is an extraordinary challenge. For that reason the
-OHS Codex acts as an “umbrella” for solutions supporting better
-surveillance data integration and interpretation in the future (and it
-is generic enough to include solutions from other EJP Integrative Action
-projects as well).
+To support such practical steps the OHS Codex has been designed in such
+a way, that it can act as a resource itself, i.e. it provides a
+collection of methods, tools and resources that could be used or
+customized by interested institutions. Compared to the guidance
+available in the Tripartite Guide the OHS Codex focus on the needs of
+national European institutions. It has also been designed as a living
+document, so that it can be updated continuously. The OHS Codex
+framework specifically takes into account that implementation of
+improvements into established surveillance routines is an extraordinary
+challenge. For that reason the OHS Codex acts as an “umbrella” for
+solutions supporting better surveillance data integration and
+interpretation in the future (and it is generic enough to include
+solutions from other EJP Integrative Action projects as well).
