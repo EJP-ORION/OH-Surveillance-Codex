@@ -9,7 +9,7 @@ Purpose
 The Data principle defines that better surveillance data integration and
 interpretation needs tools and guidelines to annotate surveillance
 (meta)data so that the surveillance data context is transparent to both
-humans (cross-sectorial communication) and machines (interoperability
+humans (cross-sectorial interpretation) and machines (interoperability
 among data systems). Data and metadata annotation with formal knowledge
 representations add value to surveillance data by improving its
 usability inside the institutions who own and/or use the data, as well
@@ -17,22 +17,22 @@ as improving the potential for reuse in cross-sectoral communication and
 decision-making, research, and discovery, all of which are important
 components of One Health surveillance.
 
+
 Scope
 -----
 
 The Data principle aims to support cross-sectoral data interoperability
 *respecting data provenance* established at the data source. *If* data
-will be shared, *how* data will be shared and *who* has access to those
-data is the responsibility of data providers. Legal and technical
-aspects related to data sharing are beyond the scope of the Data
-principle.
+will be shared, *how* data will be shared and *who* has access to that
+data is the responsibility of data providers and therefore beyond the
+scope of the Data principle, as are legal and technical aspects.
 
-Data interoperability is supported under two models of cross-sectoral
-cooperation:
+Data interoperability can be achieved under two scenarios of
+cross-sectoral cooperation:
 
 1) A single sector produces and analyses data, and annotates the data
-      with the relevant context using machine readable knowledge models,
-      allowing other sectors to reuse the data.
+      with the relevant context using e.g. machine readable knowledge
+      models, that assure other sectors can reuse the data.
 
 2) Health sectors work in collaboration to produce information from data
       and support decision-making, analysing data jointly.
@@ -45,10 +45,10 @@ Methods
    velocity and variety - is only useful to support surveillance if it
    can be used to produce information to support decision-making. The
    FAIR data principles (findable, accessible, interoperable and
-   reusable) [11]_ aim at “assisting humans and machines in their
+   reusable) [13]_ aim at “assisting humans and machines in their
    discovery of, access to, integration and analysis of,
    task-appropriate scientific data and their associated algorithms and
-   workflows”. *Findability* requires that at the entire dataset or data
+   workflows”. *Findability* requires that the entire dataset or data
    source have sufficiently rich metadata and a unique and persistent
    identifier. *Reusability* is ensured by clear usage licenses and
    accurate information on provenance. These issues are related to the
@@ -62,12 +62,12 @@ Methods
    models understandable to humans *and* machines, *Accessibility* is
    also supported.
 
-   OHS demands several levels of interoperability - among institutions,
-   across health surveillance sectors, and among countries.
-   Interoperability is used here to mean “the ability of different
-   information technology systems and software applications to
+   OHS demands several levels of interoperability - between
+   institutions, across health surveillance sectors, and among regions
+   and countries. Interoperability is used here to mean “the ability of
+   different information technology systems and software applications to
    communicate, exchange data, and use the information that has been
-   exchanged” [12]_. EFSA and ECDC have done significant work, in their
+   exchanged” [14]_. EFSA and ECDC have done significant work, in their
    respective domains, to solve the problem of **structural
    interoperability** among datasets from different countries. As a
    result, standardised datasets collating surveillance information at
@@ -81,16 +81,20 @@ Methods
 
    Semantic interoperability is achieved by marking up data and metadata
    using an explicit knowledge model that can be understood by humans
-   and by machines, therefore complying with the FAIR principles.
+   and by machines.
 
    Resources developed in ORION aimed to support achieving this goal:
 
-1) The development of a FAIR knowledge model for health surveillance
+1) The development of a knowledge model for health surveillance - the
+      Health Surveillance Ontology
 
 2) Tools for explicit annotation of surveillance data using this model
 
-3) Resources to support the implementation, in practice, of FAIR data
-      workflows
+..
+
+   The use of these tools in surveillance practice will support the
+   creation of FAIR data workflows, as exemplified in the section
+   “Examples & Lessons Learned”, further below.
 
 **Health Surveillance Ontology (HSO)** 
 ''''''''''''''''''''''''''''''''''''''
@@ -98,7 +102,7 @@ Methods
    “\ *An ontology defines a common vocabulary for researchers who need
    to share information in a domain. It includes machine-interpretable
    definitions of basic concepts in the domain and relations among
-   them*\ ” [13]_.
+   them*\ ” [15]_.
 
    In order to attend the need for a human- and machine-readable
    knowledge model for surveillance, ORION has developed a **Health
@@ -114,9 +118,14 @@ Methods
    page listing all ontology documentation and additional resources,
    such training materials. Software agents pointed to the same address
    will find the machine-readable codes for the knowledge model (written
-   using the Web Ontology Language - OWL [14]_).
+   using the Web Ontology Language - OWL [16]_).
 
    The Health Surveillance Ontology is a full FAIR resource.
+
+   Ontology link: https://w3id.org/hso
+
+   Supporting materials:\ http://datadrivensurveillance.org/ontology/
+
 
 Tools to annotate data using HSO
 ''''''''''''''''''''''''''''''''
@@ -129,78 +138,68 @@ Tools to annotate data using HSO
 
    The data annotation process is highly dependent on the data
    management tools used at each institution. In ORION we have
-   identified that epidemiologists most frequently manipulated and
+   identified that epidemiologists most frequently manipulate and
    exchange in flat formats, in “.xls”, “.xlsx” or “.csv” formats. For
    that reason, we have, in collaboration with other projects, developed
    a tool for semantic annotation of data in Excel, and subsequent
    export of the data in Resource Description Framework (RDF)
-   format [15]_, a standard model for data interchange on the Web. The
+   format [17]_, a standard model for data interchange on the Web. The
    Excel plug-in is free and open source. Codes for developers, as well
    as a guide to install the plug-in for users are available at
    https://karlhammar.com/ExcelRDF/.
-
-   Tools to annotate tabular data keeping the tabular format also exist,
-   as well as tools to incorporate data annotation into SQL databases.
-   Those were not developed in ORION, but their adoption into workflows
-   of data production and consumption within OHS practice are supported
-   by the workflows examples provided among the ORION resources, as
-   listed below.
-
-FAIR data workflows in OHS
-''''''''''''''''''''''''''
-
-   Establishing a workflow of data annotation that is sustainable in
-   practice must take into account the current practices within the
-   agencies involved in OHS. While the adoption of data annotation
-   practices can increase the value of data - potentially minimizing
-   efforts in other steps of the continuum of data production and
-   consumption - it can also be perceived as an “extra-burden”. It is
-   important to help institutions understand how to establish effective
-   data workflows, incorporating the adoption of the knowledge model
-   into their existing practices.
-
-   Data workflows within each ORION OH-pilot will be evaluated to
-   propose improvement in FAIRness and incorporation of data annotation
-   with minimum change of current practices. These workflows, as well as
-   annotated data in various formats, will be made available in the
-   ORION Knowledge Hub (https://foodrisklabs.bfr.bund.de/oh-data/ ) to
-   serve as inspiration and support to agencies wanting to follow this
-   principle. The workflows will exemplify how agencies can improve
-   semantic interoperability of their data (in support to OHS) in
-   particular, and their data FAIRness in general.
-
-   |image2|
 
 
 Examples & Lessons learned
 --------------------------
 
-   Several ORION project partners carry out national pilot studies to
-   test methods from the Data principle regarding usability within a
-   cross sectional approach. Findings from these pilot studies will be
-   reported here.
+   Establishing a workflow of data annotation **in surveillance
+   practice** must take into account the current practices within the
+   agencies involved in OHS. While the adoption of data annotation
+   practices can increase the value of data - potentially minimizing
+   efforts in other steps of the continuum of data production and
+   consumption - it can also be perceived as an “extra-burden”. It is
+   important to help institutions in establishing effective data
+   workflows, incorporating the adoption of the knowledge model into
+   their existing practices.
 
+   There is no “one fits all” solution. In this section we report
+   examples where institutional workflows for the production of
+   surveillance data have been mapped, and the incorporation of data
+   annotation has been suggested/implemented.
 
+|image2|
+
+**Example 1:** Publishing of the report “Surveillance of infectious
+diseases in animals and humans in Sweden” as Linked-open-data (foodborne
+zoonoses chapters).
+
+`Current surveillance
+report <https://old.sva.se/en/reports-and-publications-in-english/disease-surveillance/disease-surveillance-reports>`__
+
+Linked open data version (to be published in July 2020)
+
+Link to description of the example and tools used (to be published in
+July 2020)
 
 .. rubric:: Reference
 
-.. [11]
+.. [13]
    Findable, Accessible, Interoperable, Reusable.
    https://www.force11.org/group/fairgroup/fairprinciples
 
-.. [12]
+.. [14]
    HIMSS Dictionary of Healthcare Information Technology Terms, Acronyms
    and Organizations, 2nd Edition, 2010, Appendix B, p190
 
-.. [13]
+.. [15]
    Natalya F. Noy and Deborah L. Mcguinness. 2001. Ontology Development
    101: A Guide to Creating Your First Ontology. Available at
    http://protege.stanford.edu/publications/ontology\_development/ontology101.pdf
 
-.. [14]
+.. [16]
    https://www.w3.org/OWL/
 
-.. [15]
+.. [17]
    https://www.w3.org/RDF/
 
 
