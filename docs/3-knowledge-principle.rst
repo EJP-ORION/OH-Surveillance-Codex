@@ -39,7 +39,7 @@ knowledge on
 
 -  current methods for surveillance planning
 
--  Experiences with implementation of new technologies supporting
+-  experiences with implementation of new technologies supporting
       surveillance
 
 Despite the fact that already many surveillance systems and data are
@@ -92,8 +92,8 @@ The OH Knowledge Base – Surveillance systems consist of:
    applications, too.
 
    Links:
-   - https://joerngethmann.shinyapps.io/OrionAHS/
-   - https://statmethods.shinyapps.io/toolsdatabase/
+   https://joerngethmann.shinyapps.io/OrionAHS/
+   https://statmethods.shinyapps.io/toolsdatabase/
 
 
 OH Knowledge Base - The Sequencing for Surveillance Handbook
@@ -114,7 +114,7 @@ OH Knowledge Base - The Sequencing for Surveillance Handbook
 
 -  databases and other resources needed to perform analyses for species
       specific analyses
-
+      
 -  guidance on how to use typing data for surveillance and outbreak
       detection, including clustering guidelines
 
