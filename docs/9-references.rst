@@ -36,24 +36,36 @@ References
    https://ecdc.europa.eu/en/publications-data/european-surveillance-system-tessy
 
 .. [10]
+   EFSA (European Food Safety Authority), 2014. Technical specifications
+   for the pilot on the collection of data on molecular testing of
+   food-borne pathogens from food, feed and animal samples. EFSA
+   supporting publications 2014;11(12):EN‐712, 58 pp. doi:
+   10.2903/sp.efsa.2014.EN-712
+
+.. [11]
+   ORION. (2020, April 16). Deliverable-JIP1-D2.3 Report on requirement
+   analysis for an "OH Knowledge Base – Integration" (ORION). Zenodo.
+   http://doi.org/10.5281/zenodo.3754596
+
+.. [12]
    Taking a Multisectoral, One Health Approach:A Tripartite Guide to
    Addressing Zoonotic Diseases in Countries
 
-.. [11]
+.. [13]
    Findable, Accessible, Interoperable, Reusable.
    https://www.force11.org/group/fairgroup/fairprinciples
 
-.. [12]
+.. [14]
    HIMSS Dictionary of Healthcare Information Technology Terms, Acronyms
    and Organizations, 2nd Edition, 2010, Appendix B, p190
 
-.. [13]
+.. [15]
    Natalya F. Noy and Deborah L. Mcguinness. 2001. Ontology Development
    101: A Guide to Creating Your First Ontology. Available at
    http://protege.stanford.edu/publications/ontology\_development/ontology101.pdf
 
-.. [14]
+.. [16]
    https://www.w3.org/OWL/
 
-.. [15]
+.. [17]
    https://www.w3.org/RDF/
