@@ -1,31 +1,34 @@
 ==========================================================================
-The Reporting principle: Supporting external communication of OHS outcomes
+The Dissemination principle: Supporting external communication of OHS outcomes
 ==========================================================================
 
 
 Purpose
 -------
 
-The reporting principle defines that better surveillance data
+The dissemination principle defines that better surveillance data
 integration and interpretation needs improved cross-sectorial OHS report
 integration and harmonization. The resources provided within this
 principle are meant to support the cross-sectorial harmonized
-provisioning of metadata in OHS reports. Best practice examples will
-illustrate how the adoption of corresponding guidelines help to create a
-true OHS report, which is based on a joint analysis of cross-sectorial
-surveillance outputs. It will also demonstrate that such joint reporting
-supports the cross-sectorial understanding of contextual information in
-future OHS reports.
+provisioning of metadata in OHS reports and e.g. to provide a foundation
+for advice to risk managers. Best practice examples illustrate how the
+reporting of surveillance outputs using new checklists and templates
+relying on cross-sectoral analysis of surveillance outputs, will improve
+the value for all stakeholders. It also demonstrates that such
+activities support the cross-sectorial understanding of contextual
+information in future OHS reports.
 
 
 Scope
 -----
 
-The resources provided within this principle are aimed at being
-generically applicable for surveillance purposes in all OH sectors,
-including those that were not directly involved in their development
-e.g. the environmental sector. In addition they should be applicable to
-all countries, geographic areas and administrative levels.
+The resources provided within this principle are directed towards the
+activities linked to report generation or dissemination of surveillance
+data and results. Proposed solutions were designed to be generically
+applicable for any surveillance activity in all OH sectors, including
+those that were not directly involved in their development e.g. the
+environmental sector. In addition they should be applicable to all
+European countries, geographic areas and administrative levels.
 
 
 Methods
@@ -35,14 +38,16 @@ Consensus Report Annotation Checklist (CRAC)
 ''''''''''''''''''''''''''''''''''''''''''''
 
    To achieve OHS report harmonization we are proposing the
-   establishment and adoption of a so called **“Consensus Report
+   establishment and adoption of a so-called **“Consensus Report
    Annotation Checklist” (CRAC)**. The adoption of CRAC will allow all
-   existing OHS metadata to be mapped to one concurrent schema, instead
-   of cross-mapping metadata between several sectoral and institutional
-   metadata systems as illustrated in Figure X. The implementation and
-   comprehension of the CRAC will thereby cause minimal efforts for all
-   involved parties.
+   existing OHS metadata to be mapped to one concurrent metadata schema,
+   instead of cross-mapping metadata between several sectoral and
+   institutional metadata systems as illustrated in Figure X. The
+   implementation and comprehension of the CRAC will thereby cause
+   minimal efforts for all involved parties.
+      Link:
    https://docs.google.com/document/d/116-_olJtIqdE2sMkyNWy_9wnSI-ciTCRyLaiA9aWLu0/edit?usp=sharing
+
 
 .. figure:: ../assets/img/20191912_OHS_CRAC.png
     :width: 6.28229in
@@ -59,10 +64,26 @@ Consensus Report Annotation Checklist (CRAC)
 
 National OHS Report Templates
 '''''''''''''''''''''''''''''
+   Surveillance of zoonoses and AMR is often carried out in multiple
+   animals species, foods and/or people and reported separately.
+   Sometimes, outputs from different sectors are reported in the same
+   report or in the same chapters, but usually every author/sector
+   provides their own text and graphics. This tends to present the
+   providers’ perspective rather than focussing on the receiver needs
+   and may not interpret the data from a One Health perspective. To
+   support One Health reporting, examples or templates to report
+   different types of hazards with a OH focus have been developed. The
+   templates demonstrate how to report e.g. AMR in food borne zoonoses
+   throughout the food chain and focusing on the consequences for humans
+   and animals or how to report zoonotic trends, whilst enhancing the
+   One Health focus.
+   
+   Template to report AMR in Campylobacter in animals, meat and humans
+   from a One Health perspective:
 
-   AMR & AMU - DTU
+   Example:
 
-   Link
+   https://www.danmap.org/-/media/arkiv/projekt-sites/danmap/danmap-reports/danmap-2018/danmap_2018.pdf?la=en
 
 
 
