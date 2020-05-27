@@ -10,13 +10,13 @@ are means to combat these impediments. It is generally recognized that
 human and animal health are interconnected and that the transmission of
 zoonoses and AMR can essentially take place through various links of the
 human-animal interface e.g. the environment or food  [4]_, [5]_. This
-implies that surveillance and monitoring cannot be addressed by the
-human or animal sector alone, but instead have to be a multisectoral and
+implies that surveillance cannot be addressed by the human or animal
+sector alone, but instead have to be a multisectoral and
 multidisciplinary collaboration  [6]_. This approach to collaboration is
 referred to as One Health. The benefits and importance of One Health
-Surveillance (OHS) are widely accepted, however, there are still gaps in
-surveillance or surveillance data that hinder a truly integrated OHS
-approach.
+**Surveillance** (OHS) are widely accepted, however, there are still
+gaps in surveillance or surveillance data that hinder a truly integrated
+OHS approach.
 
 Within the EU, EFSA and ECDC have made substantial efforts to harmonize
 data collection and reporting within their sectors. These achievements
@@ -27,9 +27,9 @@ and the SIGMA project
 (`SIGMA <https://www.efsa.europa.eu/en/supporting/pub/en-1428>`__\  [8]_)
 from EFSA, as well as the European Surveillance System
 (`TESSy <https://ecdc.europa.eu/en/publications-data/european-surveillance-system-tessy>`__\  [9]_)
-from ECDC. Other ongoing joint efforts of theses stakeholders support
-OHS data harmonization as well, for example the joint molecular typing
-database (URL: ). Another collaborative effort is the compilation of the
+from ECDC. Other ongoing joint efforts of these stakeholders support OHS
+data harmonization as well, for example the joint molecular typing
+database [10]_. Another collaborative effort is the compilation of the
 yearly European Summary Reports (EUSRs) on trends and sources of
 zoonoses, zoonotic agents and food-borne outbreaks and on antimicrobial
 resistance in zoonotic and indicator bacteria from humans, animals and
@@ -37,7 +37,7 @@ food (URL: https://www.efsa.europa.eu/en/publications). However, the
 current practice of provisioning OHS data in reports could be improved,
 specifically when it comes to national or research data not covered by
 European legislation. Moreover, no generic strategy for surveillance
-data reporting is currently available that could be adopted by all, OHS
+data reporting is currently available that could be adopted by all OHS
 related scientific disciplines including e.g. environmental science.
 
 The Joint Integrative Project (JIP) “One health suRveillance Initiative
@@ -46,35 +46,33 @@ establishing and strengthening inter-institutional collaboration and
 transdisciplinary knowledge transfer in the area of One Health
 Surveillance (OHS) data integration and interpretation. Detailed
 requirement analyses were performed within ORION to identify current
-best practices, resources and needs within the OHS community
-(References: ). Results from the requirement analyses confirmed that
-cross-sectoral and multi-disciplinary communication, collaboration and
-knowledge exchange are still significant challenges for the OHS
-community. In addition, the results reinforced the need for better
-harmonization of reports on OHS data, which could ultimately lead to
-improved mutual understanding and use of sector-specific data in future
-OH analysis.
+best practices, resources and needs within the OHS community [11]_.
+Results from the requirement analyses confirmed that cross-sectoral and
+multi-disciplinary communication, collaboration and knowledge exchange
+are still significant challenges for the European OHS community. In
+addition, the results reinforced the need for better harmonization of
+reports on OHS data, which could ultimately lead to improved mutual
+understanding and use of sector-specific data in future OH analysis.
 
 This OHS Codex therefore aims at establishing a high-level framework
 that supports collaboration, mutual understanding, knowledge exchange
 and data interoperability between OH sectors, that will support
-integrated OHS data analyses and reporting.
+integrated OHS data analyses and interpretation.
 
 Purpose
 -------
 
 The purpose of this OHS Codex is to provide users with guidance and
 resources, e.g. tools, technical solutions, guidance documents, that
-improve collaboration, mutual understanding and knowledge exchange
-between the different OHS sectors. Moreover, it is ought to support
-better surveillance data integration and interpretation, along the One
-Health (OH) objective of improving health and well-being. The OHS Codex
-thereby supports the ambitions outlined in chapter 3, 4, and 5.1 to 5.3
-of the FAO, OIE and WHO document ‘Taking a Multisectoral, One Health
-Approach: A Tripartite Guide to Addressing Zoonotic Diseases in
-Countries” [10]_ (Tripartite Guide) by proposing specific resources that
-support putting a true One Health approach (as described in the
-Tripartite Guide) into practice.
+improve integrated OHS data analyses and interpretation between the
+different OHS sectors. With that the OHS Codex supports the ambitions
+outlined in chapter 3, 4, and 5.1 to 5.3 of the FAO, OIE and WHO
+document ‘Taking a Multisectoral, One Health Approach: A Tripartite
+Guide to Addressing Zoonotic Diseases in Countries” [12]_ (Tripartite
+Guide) by proposing specific resources that support putting a true One
+Health approach (as described in the Tripartite Guide) into practice in
+Europe.
+
 
 .. figure:: ../assets/img/2020108_Tripartite_OHS_CODEX_adapted.png
     :width: 6.28229in
@@ -94,19 +92,21 @@ Target community, main stakeholders and organizations
 According to the understanding of the authors elements of the OHS Codex
 will be useful for
 
-organizations or researchers that are
+organizations or researchers that are involved in
 
--  involved in One Health surveillance implementation
+-  One Health surveillance implementation
 
--  involved in One Health surveillance data reporting
+-  One Health surveillance data reporting
 
--  involved in One Health data harmonization and standardization
+-  One Health data harmonization and standardization
+
+-  Cross-sector risk management
 
 Specifically, this includes
 
--  Organisations that are members of the EJP consortium
+-  the EJP consortium and their follow up organization
 
--  other national authorities involved in OHS
+-  national authorities in Europe involved in OHS
 
 -  European authorities and institutes, as e.g. EFSA, ECDC, EEA
 
@@ -115,20 +115,14 @@ Specifically, this includes
 Scope
 -----
 
-The OHS Codex aims at being generically applicable for surveillance
-purposes in all OH sectors, including those that were not directly
-involved in the development of the OHS Codex e.g. the environmental
-sector. The OHS Codex aims also at being applicable to all countries,
-geographic areas and administrative levels. However, we recognize that
-the resources were created based on surveillance within the animal
-health, food safety and public health sector. Therefore they may not
-consider every situation of OHS given the wide scope of countries and
-OHS contexts. It is also beyond the scope of the OHS Codex to create
-mechanisms or provide new structures for surveillance data sharing.
-
-Users of this guide are invited to take the provided methods as
-practical examples that can be adapted to their contexts, needs, and
-requirements.
+The scope of the OHS Codex is to provide a framework to embrace
+different tools and methods that can enhance OHS data analyses and
+interpretation. Currently, it is structured according to four core
+principles that were jointly defined by EJP-ORION project members as
+critical for achieving this objective. The OHS Codex framework has the
+potential to be expanded by more principles in the future in case the
+scope / objective is broadened. In this case the OHS Codex could become
+a comprehensive hub of tools for OHS improvement.
 
 .. figure:: ../assets/img/20191112_OHS-Codex_figure.png
     :width: 6.27083in
@@ -145,16 +139,15 @@ requirements.
 Principles
 ----------
 
-The OHS Codex framework defines that improved cross-sector understanding
-and information exchange requires actions in four dedicated “areas”. In
-this OHS Codex these “areas” are termed “principles”. It is the ambition
-of this OHS Codex to describe these principles and to provide specific
-solutions & methods that can be used by the organisations & researchers
-to adopt each principle. Several of such methods will be developed and
-tested within the EJP ORION project, so that these are included right
-from the beginning into the OHS Codex document. As the OHS Codex is
-designed itself as an updatable online resource and it will be
-continuously extended as soon as new useful methods & solutions become
+The OHS Codex framework is structured by four main principles,
+identified by ORION as four main areas, where cross-sector understanding
+and information exchange could be improved. The Codex describes each
+principle and within each provides solutions & methods available to
+organisations & researchers, who want to enhance OHS within each
+principle. The methods and tools included from the onset in the Codex
+were developed and tested within the EJP ORION project. However, the OHS
+Codex is designed as an updatable online resource that can be
+continuously expanded when new useful methods & solutions become
 available.
 
 
@@ -194,6 +187,18 @@ available.
    https://ecdc.europa.eu/en/publications-data/european-surveillance-system-tessy
 
 .. [10]
+   EFSA (European Food Safety Authority), 2014. Technical specifications
+   for the pilot on the collection of data on molecular testing of
+   food-borne pathogens from food, feed and animal samples. EFSA
+   supporting publications 2014;11(12):EN‐712, 58 pp. doi:
+   10.2903/sp.efsa.2014.EN-712
+
+.. [11]
+   ORION. (2020, April 16). Deliverable-JIP1-D2.3 Report on requirement
+   analysis for an "OH Knowledge Base – Integration" (ORION). Zenodo.
+   http://doi.org/10.5281/zenodo.3754596
+
+.. [12]
    Taking a Multisectoral, One Health Approach:A Tripartite Guide to
    Addressing Zoonotic Diseases in Countries
 
