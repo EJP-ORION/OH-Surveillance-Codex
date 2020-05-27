@@ -55,7 +55,7 @@ OHEJP Glossary
 
    Lessons learned: to be published in July 2020
    
-OOHS Initiatives - ideas and inspiration (OHS Inspiration catalogue)
+OHS Initiatives - ideas and inspiration (OHS Inspiration catalogue)
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
    Changes and new initiatives are often hampered by the lack of vision
