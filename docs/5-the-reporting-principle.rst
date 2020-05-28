@@ -45,6 +45,7 @@ Consensus Report Annotation Checklist (CRAC)
    institutional metadata systems as illustrated in Figure X. The
    implementation and comprehension of the CRAC will thereby cause
    minimal efforts for all involved parties.
+   
    Link: 
    https://docs.google.com/document/d/116-_olJtIqdE2sMkyNWy_9wnSI-ciTCRyLaiA9aWLu0/edit?usp=sharing
 
