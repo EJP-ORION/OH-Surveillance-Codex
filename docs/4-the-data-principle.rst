@@ -37,9 +37,7 @@ cross-sectoral cooperation:
 2) Health sectors work in collaboration to produce information from data
       and support decision-making, analysing data jointly.
       
-(1) A single sector produces and analyses data, and annotates the data
-   with the relevant context using e.g. machine readable knowledge
-   models, that assure other sectors can reuse the data.
+(1) A single sector produces and analyses data, and annotates the data with the relevant context using e.g. machine readable knowledge models, that assure other sectors can reuse the data.
    
 (2) Health sectors work in collaboration to produce information from data
    and support decision-making, analysing data jointly.
