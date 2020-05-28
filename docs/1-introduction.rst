@@ -151,7 +151,7 @@ continuously expanded when new useful methods & solutions become
 available.
 
 
-.. rubric:: Reference
+.. rubric:: References
 
 .. [1]
    “Zoonotic Diseases: Progress Has Stalled.” European Food Safety
