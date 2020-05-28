@@ -29,20 +29,10 @@ scope of the Data principle, as are legal and technical aspects.
 
 Data interoperability can be achieved under two scenarios of
 cross-sectoral cooperation:
-
-1) A single sector produces and analyses data, and annotates the data
-      with the relevant context using e.g. machine readable knowledge
-      models, that assure other sectors can reuse the data.
-
-2) Health sectors work in collaboration to produce information from data
-      and support decision-making, analysing data jointly.
-      
+    
 (1) A single sector produces and analyses data, and annotates the data with the relevant context using e.g. machine readable knowledge models, that assure other sectors can reuse the data.
    
-(2) Health sectors work in collaboration to produce information from data
-   and support decision-making, analysing data jointly.
-
-
+(2) Health sectors work in collaboration to produce information from data and support decision-making, analysing data jointly.
 
 
 Methods
@@ -92,8 +82,7 @@ Methods
 
    Resources developed in ORION aimed to support achieving this goal:
 
-(1) The development of a knowledge model for health surveillance - the
-   Health Surveillance Ontology
+(1) The development of a knowledge model for health surveillance - the Health Surveillance Ontology
    
 (2) Tools for explicit annotation of surveillance data using this model
 
