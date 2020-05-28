@@ -69,8 +69,7 @@ OHS Initiatives - ideas and inspiration (OHS Inspiration catalogue)
    initiatives from all over the EU and aims to inspire new approaches
    in OHS in other MS.
 
-   Link:
-   https://www.food.dtu.dk/english/-/media/Institutter/Foedevareinstituttet/Publikationer/Pub-2019/Rapport-One-Health-Integration-in-Surveillance.ashx?la=da
+   Link: https://www.food.dtu.dk/english/-/media/Institutter/Foedevareinstituttet/Publikationer/Pub-2019/Rapport-One-Health-Integration-in-Surveillance.ashx?la=da
    
 Examples & Lessons learned
 --------------------------
