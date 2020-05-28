@@ -45,7 +45,7 @@ Consensus Report Annotation Checklist (CRAC)
    institutional metadata systems as illustrated in Figure X. The
    implementation and comprehension of the CRAC will thereby cause
    minimal efforts for all involved parties.
-      Link:
+   Link: 
    https://docs.google.com/document/d/116-_olJtIqdE2sMkyNWy_9wnSI-ciTCRyLaiA9aWLu0/edit?usp=sharing
 
 
@@ -79,10 +79,9 @@ National OHS Report Templates
    One Health focus.
    
    Template to report AMR in Campylobacter in animals, meat and humans
-   from a One Health perspective:
+   from a One Health perspective.
 
    Example:
-
    https://www.danmap.org/-/media/arkiv/projekt-sites/danmap/danmap-reports/danmap-2018/danmap_2018.pdf?la=en
 
 
@@ -91,6 +90,6 @@ Examples & Lessons learned
 --------------------------
 
    Several ORION project partners carry out national pilot studies to
-   test the Reporting principles within a cross sectional approach.
+   test the Dissemination principles within a cross sectional approach.
    Findings from these pilot studies will be reported here.
 
