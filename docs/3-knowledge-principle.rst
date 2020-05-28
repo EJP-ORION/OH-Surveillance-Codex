@@ -91,12 +91,6 @@ The OH Knowledge Base – Surveillance systems consist of:
    registration, the database will be accessible via the web
    applications, too.
 
-   Links:
-   
-   https://joerngethmann.shinyapps.io/OrionAHS/
-   
-   https://statmethods.shinyapps.io/toolsdatabase/
-
 
 OH Knowledge Base - The Sequencing for Surveillance Handbook
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
