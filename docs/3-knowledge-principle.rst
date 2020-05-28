@@ -39,8 +39,8 @@ knowledge on
 
 -  current methods for surveillance planning
 
--  experiences with implementation of new technologies supporting
-      surveillance
+-  experiences with implementation of new technologies supporting surveillance
+
 
 Despite the fact that already many surveillance systems and data are
 shared with EFSA and ECDC, there are several additional national
@@ -109,14 +109,11 @@ OH Knowledge Base - The Sequencing for Surveillance Handbook
 
 -  descriptions of infrastructure solutions for sequencing and analysis
 
--  review of bioinformatics tools and pipelines used for analyzing and
-      typing foodborne pathogens
+-  review of bioinformatics tools and pipelines used for analyzing and typing foodborne pathogens
 
--  databases and other resources needed to perform analyses for species
-      specific analyses
-      
--  guidance on how to use typing data for surveillance and outbreak
-      detection, including clustering guidelines
+-  databases and other resources needed to perform analyses for species specific analyses
+
+-  guidance on how to use typing data for surveillance and outbreak detection, including clustering guidelines
 
 ..
 
