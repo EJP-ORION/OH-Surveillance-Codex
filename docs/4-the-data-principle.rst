@@ -172,7 +172,7 @@ annotation has been suggested/implemented.
 diseases in animals and humans in Sweden” as Linked-open-data (foodborne
 zoonoses chapters).
 
-In 2019, the Campylobacter chapter of the Swedish annual surveilance report was compiled as a true
+In 2019, the Campylobacter chapter of the Swedish annual surveillance report was compiled as a true
 *One-Health* initiative, with collaboration across sectors established early in the process of
 compiling and analysing surveillance results. As a result, One-Health issues were lifted. 
 The resulting chapter was fully annotated using the HSO for structured data, and using `CRAC <https://oh-surveillance-codex.readthedocs.io/en/latest/5-the-reporting-principle.html#consensus-report-annotation-checklist-crac>`_ for narrative information. A dataset compiling HSO annotated data for the last 10 years, and CRAC annotated descriptions of the surveillance carried out in all related sectors (animal health, public health and food safety) in 2019 was saved as a CSV file. 
@@ -181,7 +181,7 @@ The RDF and CSV distributions of this same dataset were made public:
 `Campylobacter surveillance in Sweden at dataportal.se <https://www.dataportal.se/en/datasets/59_1684/campylobacter-surveillance-in-sweden>`_. 
 The metadata for this dataset was annotated following the DCAT Application Profile for data portals in Europe (DCAT-AP). This is therefore a truly Findable, Accessible, Interoperable and Reusable (FAIR) dataset.
 
-The `surveillance report itself, in its entirity, was also published in the Swedish dataportal <https://www.dataportal.se/en/datasets/59_1643/surveillance-of-infectious-diseases-in-animals-and-humans-in-sweden-2019>`_. While this is a PDF file, therefore not accessible and interoperable for machines, all metadata were provided in the DCAT-AP, making it findable and reusable. 
+The `surveillance report itself, in its entirety, was also published in the Swedish dataportal <https://www.dataportal.se/en/datasets/59_1643/surveillance-of-infectious-diseases-in-animals-and-humans-in-sweden-2019>`_. While this is a PDF file, therefore not accessible and interoperable for machines, all metadata were provided in the DCAT-AP, making it findable and reusable. 
 
 This pilot served as a "proof of concept" to achieve the following:
 1)	Having a dataset that grows in parallel to the surveillance report. While the surveillance report has all diseases for one year, this is meant to be one disease, but all years. 
