@@ -121,6 +121,8 @@ The Health Surveillance Ontology is a full FAIR resource.
 
 Ontology link: https://w3id.org/hso
 
+Browsable view on Bioportal: https://bioportal.bioontology.org/ontologies/HSO
+
 Supporting materials:\ http://datadrivensurveillance.org/ontology/
 
 
@@ -170,13 +172,24 @@ annotation has been suggested/implemented.
 diseases in animals and humans in Sweden” as Linked-open-data (foodborne
 zoonoses chapters).
 
-`Current surveillance
-report <https://old.sva.se/en/reports-and-publications-in-english/disease-surveillance/disease-surveillance-reports>`__
+In 2019, the Campylobacter chapter of the Swedish annual surveillance report was compiled as a true
+*One-Health* initiative, with collaboration across sectors established early in the process of
+compiling and analysing surveillance results. As a result, One-Health issues were lifted. 
+The resulting chapter was fully annotated using the HSO for structured data, and using `CRAC <https://oh-surveillance-codex.readthedocs.io/en/latest/5-the-reporting-principle.html#consensus-report-annotation-checklist-crac>`_ for narrative information. A dataset compiling HSO annotated data for the last 10 years, and CRAC annotated descriptions of the surveillance carried out in all related sectors (animal health, public health and food safety) in 2019 was saved as a CSV file. 
+The `Excel2RDF plugin <https://karlhammar.com/ExcelRDF/>`_ was used to generate a machine readable version of the dataset (RDF). 
+The RDF and CSV distributions of this same dataset were made public: 
+`Campylobacter surveillance in Sweden at dataportal.se <https://www.dataportal.se/en/datasets/59_1684/campylobacter-surveillance-in-sweden>`_. 
+The metadata for this dataset was annotated following the DCAT Application Profile for data portals in Europe (DCAT-AP). This is therefore a truly Findable, Accessible, Interoperable and Reusable (FAIR) dataset.
 
-Linked open data version (to be published in July 2020)
+The `surveillance report itself, in its entirety, was also published in the Swedish dataportal <https://www.dataportal.se/en/datasets/59_1643/surveillance-of-infectious-diseases-in-animals-and-humans-in-sweden-2019>`_. While this is a PDF file, therefore not accessible and interoperable for machines, all metadata were provided in the DCAT-AP, making it findable and reusable. 
 
-Link to description of the example and tools used (to be published in
-July 2020)
+This pilot served as a "proof of concept" to achieve the following:
+1)	Having a dataset that grows in parallel to the surveillance report. While the surveillance report has all diseases for one year, this is meant to be one disease, but all years. 
+2)	Having one link where people can always come back for the most up to date version of the data available for this surveillance system
+3)	Having, in parallel, a “human readable” version of the dataset (CSV), and a “machine readable” version (RDF) which can be used in artificial intelligence (AI) applications, or to combine with openly available research data, wikidata, etc. 
+4)	Having extensive metadata annotation, so that this dataset can be findable by those who could make use of it, including AI.
+
+
 
 .. rubric:: References
 
