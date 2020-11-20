@@ -14,7 +14,7 @@ implies that surveillance cannot be addressed by the human or animal
 sector alone, but instead have to be a multisectoral and
 multidisciplinary collaboration  [6]_. This approach to collaboration is
 referred to as One Health. The benefits and importance of One Health
-**Surveillance** (OHS) are widely accepted, however, there are still
+Surveillance (OHS) are widely accepted, however, there are still
 gaps in surveillance or surveillance data that hinder a truly integrated
 OHS approach.
 
@@ -74,7 +74,7 @@ Health approach (as described in the Tripartite Guide) into practice in
 Europe.
 
 
-.. figure:: ../assets/img/2020108_Tripartite_OHS_CODEX_adapted.png
+.. figure:: ../assets/img/20201118_Tripartite_OHS_CODEX_adapted.png
     :width: 6.28229in
     :align: center
     :height:  3.98799in
