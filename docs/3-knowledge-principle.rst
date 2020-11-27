@@ -102,19 +102,16 @@ OH Knowledge Base - The Sequencing for Surveillance Handbook
    resource containing best practice advice and hands on experience for
    how to set up and use sequencing for surveillance in a OH-supporting
    manner . The handbook currently consists of the following sections:
-
+   
 -  public guidance documents from institutions such as EFSA and ECDC
 
 -  descriptions of infrastructural solutions for sequencing and analysis
 
--  review of bioinformatics tools and pipelines used for analyzing and
-      typing foodborne pathogens
+-  review of bioinformatics tools and pipelines used for analyzing and typing foodborne pathogens
 
--  databases and other resources needed to perform analyses for species
-      specific analyses
+-  databases and other resources needed to perform analyses for species specific analyses
 
--  guidance on how to use typing data for surveillance and outbreak
-      detection, including clustering guidelines
+-  guidance on how to use typing data for surveillance and outbreak detection, including clustering guidelines
 
 ..
 
