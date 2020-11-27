@@ -82,10 +82,10 @@ Methods
 
    Resources developed in ORION aimed to support achieving this goal:
 
-(1) The development of a knowledge model for health surveillance - the Health Surveillance Ontology
+    (1) The development of a knowledge model for health surveillance - the Health Surveillance Ontology
 
    
-(2) Tools for explicit annotation of surveillance data using this model
+    (2) Tools for explicit annotation of surveillance data using this model
 
 ..
 
