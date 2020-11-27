@@ -34,20 +34,21 @@ European countries, geographic areas and administrative levels.
 Methods
 -------
 
-Consensus Report Annotation Checklist (CRAC)
+One Health Consensus Report Annotation Checklist (OH-CRAC)
 ''''''''''''''''''''''''''''''''''''''''''''
 
    To achieve OHS report harmonization we are proposing the
-   establishment and adoption of a so-called **“Consensus Report
-   Annotation Checklist” (CRAC)**. The adoption of CRAC will allow all
+   establishment and adoption of a so-called **“One Health Consensus Report
+   Annotation Checklist” (OH-RAC)**. The adoption of CRAC will allow all
    existing OHS metadata to be mapped to one concurrent metadata schema,
    instead of cross-mapping metadata between several sectoral and
-   institutional metadata systems as illustrated in Figure X. The
+   institutional metadata systems as illustrated in Figure 3. The
    implementation and comprehension of the CRAC will thereby cause
-   minimal efforts for all involved parties.
-   
-   Link: 
-   https://docs.google.com/document/d/116-_olJtIqdE2sMkyNWy_9wnSI-ciTCRyLaiA9aWLu0/edit?usp=sharing
+   minimal efforts for all involved parties. OH-CRAC is also available
+   as an interactive online tool that allows the provisioning of
+   surveillance meta-information in an easy and user-friendly manner
+
+   Link: https://aflex.vrac.iastate.edu/checklist/?t=OH-CRAC
 
 
 .. figure:: ../assets/img/20191912_OHS_CRAC.png
@@ -57,7 +58,7 @@ Consensus Report Annotation Checklist (CRAC)
     :alt: alternate text
     :figclass: align-center
    
-    Fig. 1: Schematic drawing of CRAC that is proposed to map and structure
+    Fig. 3: Schematic drawing of CRAC that is proposed to map and structure
     metadata in OH surveillance reports. Orange arrows indicate the mapping
     of metadata from federal/national systems (top) and
     European/international stakeholders (bottom) systems to the proposed
@@ -66,7 +67,7 @@ Consensus Report Annotation Checklist (CRAC)
 National OHS Report Templates
 '''''''''''''''''''''''''''''
    Surveillance of zoonoses and AMR is often carried out in multiple
-   animals species, foods and/or people and reported separately.
+   animal species, foods and/or people and reported separately.
    Sometimes, outputs from different sectors are reported in the same
    report or in the same chapters, but usually every author/sector
    provides their own text and graphics. This tends to present the
@@ -78,9 +79,9 @@ National OHS Report Templates
    throughout the food chain and focusing on the consequences for humans
    and animals or how to report zoonotic trends, whilst enhancing the
    One Health focus.
-   
+
    Template to report AMR in Campylobacter in animals, meat and humans
-   from a One Health perspective.
+   from a One Health perspective:
 
    Example:
    https://www.danmap.org/-/media/arkiv/projekt-sites/danmap/danmap-reports/danmap-2018/danmap_2018.pdf?la=en

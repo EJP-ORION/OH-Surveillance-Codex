@@ -2,6 +2,7 @@
 The Collaboration principle: Supporting OHS collaboration & cross-sectorial communication
 =========================================================================================
 
+.. _purpose-1:
 
 Purpose
 -------
@@ -32,6 +33,7 @@ sectors that were not directly involved in the development process e.g.
 the environmental sector. In addition they are meant to be applicable to
 all European countries, geographic areas and administrative levels.
 
+
 Methods
 -------
 
@@ -49,11 +51,21 @@ OHEJP Glossary
    and stakeholders. It does not aim to create harmonized definitions of
    OHS-related terms. The OHEJP Glossary is developed and maintained as
    a collaborative effort of three EJP projects, namely ORION, NOVA and
-   COHESIVE, with support from OH experts of EJP stakeholders.
+   COHESIVE, with support from OH experts of EJP stakeholders. Link:
+   https://foodrisklabs.bfr.bund.de/ohejp-glossary/
 
-   Link: https://aginfra.d4science.org/web/orionknowledgehub/catalogue
+   Additionally, OHS-related terms and definitions from the OHEJP
+   Glossary can be easily retrieved in an automatic way thanks to the
+   **Glossaryfication** web service. This online infrastructure can be
+   particularly useful during the creation of OH reports for which OH
+   glossaries are needed. The Glossaryfication web service, based on
+   text processing technologies, allows automatic search within any
+   user-provided text documents for terms that are contained in the
+   OHEJP Glossary. The main output is a downloadable list of matching
+   glossary terms as well as their corresponding definitions, sectorial
+   assignments, frequencies and references, which can be added to the
+   user’s document as OH glossary.
 
-   Lessons learned: to be published in July 2020
    
 OHS Initiatives - ideas and inspiration (OHS Inspiration catalogue)
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
@@ -69,8 +81,31 @@ OHS Initiatives - ideas and inspiration (OHS Inspiration catalogue)
    initiatives from all over the EU and aims to inspire new approaches
    in OHS in other MS.
 
-   Link: https://www.food.dtu.dk/english/-/media/Institutter/Foedevareinstituttet/Publikationer/Pub-2019/Rapport-One-Health-Integration-in-Surveillance.ashx?la=da
-   
+   Link:   https://www.food.dtu.dk/english/-/media/Institutter/Foedevareinstituttet/Publikationer/Pub-2019/Rapport-One-Health-Integration-in-Surveillance.ashx?la=da   
+
+
+OH Surveillance Pathway Visualization
+'''''''''''''''''''''''''''''''''''''
+
+   Surveillance is a complex process with various activities and fluent
+   “borders”. Gaining a high level view on surveillance activities is
+   sometimes challenging, as many actors focus on their own small part
+   in the surveillance pathway and subsequently anchor discussions on
+   these specific parts. This is even more complicated if it comes to
+   inter-sectorial or One Health surveillance. To facilitate efficient
+   communication and discussions on surveillance and to ensure mutual
+   understanding of the extent of systems and programmes, supportive
+   tools or illustrations are needed. To be able to compare e.g.
+   surveillance systems in different sectors, they need to be described
+   in a similar way. The Surveillance Pathway Visualization is a new
+   resource, illustrating the pathway and the flow of data, findings and
+   actors along many OH surveillance programs. The OH Surveillance
+   Pathway Visualization is not comprehensive and all steps do not apply
+   to all types of surveillance in all sectors. However, it has been
+   aligned with other ways of describing surveillance activities and
+   does provide a proper tool to facilitate cross-sector communication.
+
+
 Examples & Lessons learned
 --------------------------
 

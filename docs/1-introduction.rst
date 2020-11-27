@@ -14,9 +14,9 @@ implies that surveillance cannot be addressed by the human or animal
 sector alone, but instead have to be a multisectoral and
 multidisciplinary collaboration  [6]_. This approach to collaboration is
 referred to as One Health. The benefits and importance of One Health
-Surveillance (OHS) are widely accepted, however, there are still
-gaps in surveillance or surveillance data that hinder a truly integrated
-OHS approach.
+Surveillance (OHS) are widely accepted, however, there are still gaps in
+surveillance or surveillance data that hinder a truly integrated OHS
+approach.
 
 Within the EU, EFSA and ECDC have made substantial efforts to harmonize
 data collection and reporting within their sectors. These achievements
@@ -56,7 +56,7 @@ understanding and use of sector-specific data in future OH analysis.
 
 This OHS Codex therefore aims at establishing a high-level framework
 that supports collaboration, mutual understanding, knowledge exchange
-and data interoperability between OH sectors, that will support
+and data interoperability between OH sectors that will support
 integrated OHS data analyses and interpretation.
 
 Purpose
