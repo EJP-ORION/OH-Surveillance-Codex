@@ -39,11 +39,11 @@ One Health Consensus Report Annotation Checklist (OH-CRAC)
 
    To achieve OHS report harmonization we are proposing the
    establishment and adoption of a so-called **“One Health Consensus Report
-   Annotation Checklist” (OH-RAC)**. The adoption of CRAC will allow all
+   Annotation Checklist” (OH-CRAC)**. The adoption of OH-CRAC will allow all
    existing OHS metadata to be mapped to one concurrent metadata schema,
    instead of cross-mapping metadata between several sectoral and
    institutional metadata systems as illustrated in Figure 3. The
-   implementation and comprehension of the CRAC will thereby cause
+   implementation and comprehension of the OH-CRAC will thereby cause
    minimal efforts for all involved parties. OH-CRAC is also available
    as an interactive online tool that allows the provisioning of
    surveillance meta-information in an easy and user-friendly manner
@@ -58,11 +58,11 @@ One Health Consensus Report Annotation Checklist (OH-CRAC)
     :alt: alternate text
     :figclass: align-center
    
-    Fig. 3: Schematic drawing of CRAC that is proposed to map and structure
+    Fig. 3: Schematic drawing of OH-CRAC that is proposed to map and structure
     metadata in OH surveillance reports. Orange arrows indicate the mapping
     of metadata from federal/national systems (top) and
     European/international stakeholders (bottom) systems to the proposed
-    CRAC.
+    OH-CRAC.
 
 National OHS Report Templates
 '''''''''''''''''''''''''''''
