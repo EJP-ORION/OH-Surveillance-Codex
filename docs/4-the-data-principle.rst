@@ -166,7 +166,12 @@ Examples & Lessons learned
    surveillance data have been mapped, and the incorporation of data
    annotation has been suggested/implemented.
 
-|image2|
+.. figure:: ../assets/img/20191912_OHS_Data.png
+   :width: 6.27083in
+   :height: 1.97222in
+   :align: center
+   :alt: alternate text
+   :figclass: align-center
 
 **Example 1:** Publishing of the report “Surveillance of infectious
 diseases in animals and humans in Sweden” as Linked-open-data (foodborne
@@ -203,10 +208,6 @@ July 2020)
    https://www.w3.org/RDF/
 
 
-
 .. |image2| image:: ../assets/img/20191912_OHS_Data.png
    :width: 6.27083in
    :height: 1.97222in
-   :align: center
-   :alt: alternate text
-   :figclass: align-center
