@@ -13,12 +13,9 @@ integration and interpretation can only be achieved if responsible
 institutions perform practical steps in at least one of the two action
 areas:
 
-1. Improve existing sector specific surveillance data reporting such
-      that data and reports can be better used in the context of OH in
-      the future
+1. Improve existing sector specific surveillance data reporting such that data and reports can be better used in the context of OH in the future
 
-2. Plan, execute or improve joint surveillance efforts that consider the
-      OH needs right from the beginning.
+2. Plan, execute or improve joint surveillance efforts that consider the OH needs right from the beginning.
 
 To support such practical steps the OHS Codex has been designed in such
 a way, that it can act as a resource itself, i.e. it provides a
