@@ -78,7 +78,6 @@ Europe.
 .. figure:: ../assets/img/20201118_Tripartite_OHS_CODEX_adapted.png
     :width: 6.28229in
     :align: center
-    :height:  3.98799in
     :alt: alternate text
     :figclass: align-center
 
