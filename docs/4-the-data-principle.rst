@@ -207,3 +207,6 @@ July 2020)
 .. |image2| image:: ../assets/img/20191912_OHS_Data.png
    :width: 6.27083in
    :height: 1.97222in
+   :align: center
+   :alt: alternate text
+   :figclass: align-center
