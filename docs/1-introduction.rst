@@ -74,6 +74,7 @@ Health approach (as described in the Tripartite Guide) into practice in
 Europe.
 
 
+
 .. figure:: ../assets/img/20201118_Tripartite_OHS_CODEX_adapted.png
     :width: 6.28229in
     :align: center
@@ -83,6 +84,7 @@ Europe.
 
     Fig. 1: Connection between the Tripartite Guide and the four principles of the OHS Codex. 
     The OHS Codex principles and their dimensions are indicated by coloured arrows. The icons correspond to the guiding icons from the Tripartite Guide.
+
 
 
 
