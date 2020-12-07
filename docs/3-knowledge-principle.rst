@@ -126,15 +126,6 @@ OH Knowledge Base - The Sequencing for Surveillance Handbook
 
 ..
 
-   This handbook will as part of the infrastructure and pipeline
-   sections include guidelines on how institutions can best process
-   their data and how data can be shared between institutions. In
-   addition, we are creating a prototype analysis system for Listeria,
-   which will serve as a test case for guidelines on how to analyze NGS
-   data in a reproducible and reliable way.
-
-   Link: https://nvi-handbook.readthedocs.io/
-
 
 Examples & Lessons learned
 --------------------------
