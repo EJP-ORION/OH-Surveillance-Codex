@@ -73,7 +73,7 @@ OH Knowledge Base – Surveillance systems
    terminology in describing the surveillance systems. The interface of
    the inventories provides users with easy and intuitive search
    functions. The first version is published at
-   https://joerngethmann.shinyapps.io/EJPOrion_AHS.
+   https://shiny.fli.de/ife-apps/EJPOrion_WP2Epi/.
 
    2) a database that provides an overview of the common statistical
    methods used for surveillance data within the EU. Furthermore, it
@@ -83,7 +83,7 @@ OH Knowledge Base – Surveillance systems
    methods and the methods actually used in surveillance projects and
    inspires institutes to consider new data analytical methodologies.
    The first version is published at
-   https://statmethods.shinyapps.io/toolsdatabase/.
+   https://shiny.fli.de/ife-apps/toolsdatabase/.
 
    (3) a literature database gathering reports, scientific literature,
    and web resources. The collection of the literature is carried out
