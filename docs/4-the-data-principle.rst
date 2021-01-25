@@ -145,7 +145,7 @@ Tools to annotate data using HSO
    format [17]_, a standard model for data interchange on the Web. The
    Excel plug-in is free and open source. Codes for developers, as well
    as a guide to install the plug-in for users are available at
-   https://karlhammar.com/ExcelRDF/.
+   https://github.com/RealEstateCore/ExcelRDF.
 
 
 Examples & Lessons learned
@@ -177,8 +177,8 @@ Examples & Lessons learned
 diseases in animals and humans in Sweden” as Linked-open-data (foodborne
 zoonoses chapters).
 
-`Current surveillance
-report <https://old.sva.se/en/reports-and-publications-in-english/disease-surveillance/disease-surveillance-reports>`__
+`Surveillance
+reports <http://datadrivensurveillance.org/campylobacter-surveillance-in-sweden/>`__
 
 Linked open data version (published in July 2020)
 
