@@ -122,7 +122,7 @@ OH Knowledge Base - The Sequencing for Surveillance Handbook
    serve as a test case for guidelines on how to analyze NGS data in a
    reproducible and reliable way.
 
-   Link: https://nvi-handbook.readthedocs.io/
+   Link: https://oh-sfs-handbook.readthedocs.io/en/latest/
 
 ..
 
