@@ -19,6 +19,7 @@ it is needed. If you have any further questions or comments, you can
 send us an email to ejp-orion@bfr.bund.de.
 
 **Types of contributions:**
+------------------------
 
    **Methods**
 
