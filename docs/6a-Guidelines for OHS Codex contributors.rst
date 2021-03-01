@@ -21,7 +21,7 @@ send us an email to ejp-orion@bfr.bund.de.
 **Types of contributions**
 ------------------------
 
-   **Methods**
+**Methods**
 
    The new methods should be introduced by a short description that
    allows the Codex users to decide whether this particular method can
@@ -81,7 +81,7 @@ necessary.
 
 For further questions please contact us via ejp-orion@bfr.bund.de.
 
-**Contributor Agreement**
+**Contributor agreement**
 -----------------------
 
 As a contributor to the OHS Codex you agree that we may redistribute
