@@ -6,7 +6,7 @@ the needs of the OH practitioners. Therefore, we welcome and encourage
 the OH community to contribute to the OHS Codex.
 
 **How to contribute to the OHS Codex**
-
+------------------------------------
 Under this
 `link <https://docs.google.com/document/d/1W69Lcc0-5fudoex7-Gjl_BxTpQyVjxHoJkUmELu1-8o/edit?usp=sharing>`__
 you can find the most recent version of the OHS Codex. As a contributor
@@ -18,10 +18,10 @@ details together with each change request so we can contact you in case
 it is needed. If you have any further questions or comments, you can
 send us an email to ejp-orion@bfr.bund.de.
 
-**Types of contributions:**
+**Types of contributions**
 ------------------------
 
-   **Methods**
+**Methods**
 
    The new methods should be introduced by a short description that
    allows the Codex users to decide whether this particular method can
@@ -71,6 +71,7 @@ send us an email to ejp-orion@bfr.bund.de.
    available to support OHS researchers, organisations or stakeholders.
 
 **Evaluation of the contributions**
+---------------------------------
 
 The new contributions will be evaluated by the OHS Codex steering board,
 which meets on a regular basis to ensure the continuous update and
@@ -80,7 +81,8 @@ necessary.
 
 For further questions please contact us via ejp-orion@bfr.bund.de.
 
-**Contributor Agreement**
+**Contributor agreement**
+-----------------------
 
 As a contributor to the OHS Codex you agree that we may redistribute
 your work under the license that the OHEJP ORION project uses. We expect
