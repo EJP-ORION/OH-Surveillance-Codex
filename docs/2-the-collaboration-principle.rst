@@ -104,6 +104,12 @@ OH Surveillance Pathway Visualization
    to all types of surveillance in all sectors. However, it has been
    aligned with other ways of describing surveillance activities and
    does provide a proper tool to facilitate cross-sector communication.
+   
+   .. figure:: ../assets/img/SurveillancePathway.png
+   :width: 6.27083in
+   :align: center
+   :alt: alternate text
+   :figclass: align-center
 
 
 Examples & Lessons learned
