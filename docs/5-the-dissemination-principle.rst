@@ -79,11 +79,13 @@ National OHS Report Templates
    throughout the food chain and focusing on the consequences for humans
    and animals or how to report zoonotic trends, whilst enhancing the
    One Health focus.
+   
+   Guidance on reporting antimicrobial resistance in a One Health perspective:
+   https://drive.google.com/file/d/1qvWe5_dnNGoipMbHbbjBHqT0fLvQ01ar/view?usp=sharing
 
    Template to report AMR in Campylobacter in animals, meat and humans
    from a One Health perspective:
-   https://drive.google.com/file/d/1qvWe5_dnNGoipMbHbbjBHqT0fLvQ01ar/view?usp=sharing
-
+   
    Example:
    https://www.danmap.org/-/media/arkiv/projekt-sites/danmap/danmap-reports/danmap-2018/danmap_2018.pdf?la=en
 
