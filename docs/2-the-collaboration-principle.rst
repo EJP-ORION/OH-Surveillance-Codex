@@ -106,10 +106,6 @@ OH Surveillance Pathway Visualization
    does provide a proper tool to facilitate cross-sector communication.
    
    .. figure:: ../assets/img/SurveillancePathway.png
-   :width: 6.27083in
-   :align: center
-   :alt: alternate text
-   :figclass: align-center
 
 
 Examples & Lessons learned
