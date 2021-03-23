@@ -109,6 +109,9 @@ OH Surveillance Pathway Visualization
 Examples & Lessons learned
 --------------------------
 
-   Several ORION project partners carry out national pilot studies to
-   test the Collaboration principles within a cross sectional approach.
-   Findings from these pilot studies will be reported here.
+Positive lessons and tools that facilitated collaboration and characterised positive outcomes were: frequent meetings/workshop between partners, mutual and clear definitions and goals from the beginning of the project agreed between all partners, templates/check lists/schematic drawings, data-sharing agreements in place and that the project addressed a mutual need/interest. Other things that motivated good collaborations were piggy-backing on existing partnerships and previously established trust, when political interest or pressure existed, and if equal priority/interest/buy-in/enthusiasm from the participating organisations was present. Clear areas of responsibilities and a continuous focus on the outcomes and goals rather than on detailed process and resources, were also experienced as positive in building collaborations.
+ 
+Some pilot projects saw collaboration grow after having ‘planted the seed’ a while ago. However, this approach is not well-suited for a project with a specific end time. In general, it was recognised that OHSI take time to develop and establish, which does not always fit well with academic project deadlines. Some pilot projects experienced that success in starting up an OHSI could be very person-dependent and convincing individuals to integrate their expert topics with others could be a barrier.
+ 
+Lack of sufficient leadership support both internally in the organisations and externally was highlighted as problem. This is a known barrier for additional OH integration between policy areas and portfolios (Ribeiro et al 2019). For some of the OHSI-developing pilot projects, it could be difficult to  get buy-in from or within organisations without proof-of-principle. Interesting, in contrast our tool-developing pilot projects found that, despite offering and demonstrating an actual tool, it was difficult to obtain adoption in existing OHSI.
+
