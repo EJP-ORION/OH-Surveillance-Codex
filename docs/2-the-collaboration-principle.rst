@@ -106,6 +106,7 @@ OH Surveillance Pathway Visualization
    does provide a proper tool to facilitate cross-sector communication.
    
    .. figure:: ../assets/img/SurveillancePathway.png
+   Figure 1. The "Surveillance Pathway Visualization" illustrates the different process steps carried out in animal health, public health and food safety surveillance. The red arrows indicate where surveillance activities could be connected between two or all three sectors to support the OH concept. 
 
 
 Examples & Lessons learned
