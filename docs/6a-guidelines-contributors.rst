@@ -9,8 +9,8 @@ the OH community to contribute to the OHS Codex.
 ------------------------------------
 Under this
 `link <https://docs.google.com/document/d/1W69Lcc0-5fudoex7-Gjl_BxTpQyVjxHoJkUmELu1-8o/edit?usp=sharing>`__
-you can find the most recent version of the OHS Codex. As a contributor
-you can navigate through the document and add your comments, enter new
+you can find the most recent version of the OHS Codex as a Google Doc. As a contributor
+you can navigate through the document and add your comments, suggest new
 text or modify existing content.All the changes will appear as
 suggestions that will be evaluated by the OHS Codex team. If you cannot
 log in the document with a gmail account, please provide some contact
@@ -37,13 +37,11 @@ send us an email to ejp-orion@bfr.bund.de.
 
 **Lessons learned**
 
-   Here you can share the experience of applying/implementing a new
-   candidate method for the OHS Codex or any method already available in
-   the OHS Codex. Under this section you can report not only the success
-   experiences while putting in practice this particular method but also
-   the limitations and challenges you faced in this process under the
-   scope of the principle where it is listed.
-
+   Here you can share the experience of applying/implementing any of the 
+   methods listed in the OHS Codex. Under this section you can link to
+   the OHS Codex. Under this section you can link to reports that describe
+   success stories as well as limitations and challenges.
+   
 **General improvement**
 
    Here we consider:
@@ -65,10 +63,14 @@ send us an email to ejp-orion@bfr.bund.de.
    critical to enhance OHS data analyses and interpretation. If you
    consider that the scope and objective of the OHS Codex can be
    extended to other areas of action and this way support a wider OH
-   community, create a new principle section under the OHS Codex
+   community, propose a new principle section under the OHS Codex
    document providing a description of the purpose and scope of this
    principle. If possible include existing solutions or methods
    available to support OHS researchers, organisations or stakeholders.
+   Proposal to extend the scope of the OHS Codex will only be considered 
+   if the author provides contact information, so the OHS Codex team can 
+   invite that author to the OHS Codex steering board discussions. 
+
 
 **Evaluation of the contributions**
 ---------------------------------
