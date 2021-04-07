@@ -125,15 +125,14 @@ potential to be expanded by more principles in the future in case the
 scope / objective is broadened. In this case the OHS Codex could become
 a comprehensive hub of tools for OHS improvement.
 
-.. figure:: ../assets/img/20200427_OHS-Codex_figure.png
+.. figure:: ../assets/img/20210301_Codex_Figure.png
     :width: 6.27083in
     :align: center
     :height:  4.69444in
     :alt: alternate text
     :figclass: align-center
 
-    Fig. 2: The overview of the OHS Codex framework (figure download as
-    pptx-file: https://data.d4science.net/qjZo)
+    Fig. 2: The overview of the OHS Codex framework
 
 
 
