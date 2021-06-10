@@ -119,7 +119,8 @@ Methods
 
 The Health Surveillance Ontology is a full FAIR resource.
 
-Ontology link: https://w3id.org/hso
+Ontology link: https://w3id.org/hso.
+
 HSO is a member of the Open Biomedical Ontologies Foundry: http://www.obofoundry.org/ontology/hso.html
 
 Browsable view on Bioportal: https://bioportal.bioontology.org/ontologies/HSO
@@ -164,6 +165,8 @@ Examples & Lessons learned
 
    The figure below is a schematic representation of the overall 
    workflow to adopt linked data solutions in one health surveillance.
+   
+
 
 .. figure:: ../assets/img/20191912_OHS_Data.png
    :width: 6.27083in
@@ -172,10 +175,12 @@ Examples & Lessons learned
    :alt: alternate text
    :figclass: align-center
 
-..   
+   
+   
    Lessons learned through the One Health pilots carried out in the ORION 
    project can be found at http://datadrivensurveillance.org/data-interoperability-needs-in-one-health-surveillance/.
-   The page also contains example datasets and workflows for FAIR data publishing.
+   The page also contains example datasets and workflows for FAIR data publishing.   
+   
 
 .. rubric:: References
 
