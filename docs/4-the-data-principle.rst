@@ -116,17 +116,16 @@ Methods
    such training materials. Software agents pointed to the same address
    will find the machine-readable codes for the knowledge model (written
    using the Web Ontology Language - OWL [16]_).
-
-The Health Surveillance Ontology is a full FAIR resource.
-
-Ontology link: https://w3id.org/hso
-
-HSO is a member of the Open Biomedical Ontologies Foundry:
-http://www.obofoundry.org/ontology/hso.html
-
-Browsable view on Bioportal: https://bioportal.bioontology.org/ontologies/HSO
-
-Supporting materials:\ http://datadrivensurveillance.org/ontology/
+   
+   The Health Surveillance Ontology is a full FAIR resource.
+   
+   Ontology link: https://w3id.org/hso
+   
+   HSO is a member of the Open Biomedical Ontologies Foundry: http://www.obofoundry.org/ontology/hso.html
+   
+   Browsable view on Bioportal: https://bioportal.bioontology.org/ontologies/HSO
+   
+   Supporting materials:  http://datadrivensurveillance.org/ontology/
 
 
 Tools to annotate data using HSO
@@ -167,21 +166,15 @@ Examples & Lessons learned
    The figure below is a schematic representation of the overall 
    workflow to adopt linked data solutions in one health surveillance.
    
-
-
-.. figure:: ../assets/img/20191912_OHS_Data.png
-   :width: 6.27083in
-   :height: 1.97222in
-   :align: center
-   :alt: alternate text
-   :figclass: align-center
-
+   .. figure:: ../assets/img/20191912_OHS_Data.png
    
-   
-   Lessons learned through the One Health pilots carried out in the ORION 
-   project can be found at http://datadrivensurveillance.org/data-interoperability-needs-in-one-health-surveillance/.
-   The page also contains example datasets and workflows for FAIR data publishing.   
-   
+            
+   Lessons learned through the One Health pilots carried out in the ORION
+   project can be found at `http://datadrivensurveillance.org/data-interoperability-needs-in-one-health-surveillance/. <http://datadrivensurveillance.org/data-interoperability-needs-in-one-health-surveillance/>`__
+   The page also contains example datasets and workflows for FAIR data
+   publishing.
+
+  
 
 .. rubric:: References
 
