@@ -44,7 +44,7 @@ knowledge on
 
 Although many surveillance systems and data are already shared with EFSA
 and ECDC, there are several additional national surveillance systems
-that are not. The results from the these surveillance systems can be
+that are not. The results from these surveillance systems can be
 difficult to access as reports are often only published in the national
 language and not listed in scientific databases (e.g. PubMed).
 
