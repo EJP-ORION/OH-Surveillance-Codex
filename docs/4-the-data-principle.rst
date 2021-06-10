@@ -119,9 +119,10 @@ Methods
 
 The Health Surveillance Ontology is a full FAIR resource.
 
-Ontology link: https://w3id.org/hso.
+Ontology link: https://w3id.org/hso
 
-HSO is a member of the Open Biomedical Ontologies Foundry: http://www.obofoundry.org/ontology/hso.html
+HSO is a member of the Open Biomedical Ontologies Foundry:
+http://www.obofoundry.org/ontology/hso.html
 
 Browsable view on Bioportal: https://bioportal.bioontology.org/ontologies/HSO
 
