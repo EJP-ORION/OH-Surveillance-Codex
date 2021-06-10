@@ -168,7 +168,7 @@ Examples & Lessons learned
    
    .. figure:: ../assets/img/20191912_OHS_Data.png
    
-            
+   |        
    Lessons learned through the One Health pilots carried out in the ORION
    project can be found at `http://datadrivensurveillance.org/data-interoperability-needs-in-one-health-surveillance/. <http://datadrivensurveillance.org/data-interoperability-needs-in-one-health-surveillance/>`__
    The page also contains example datasets and workflows for FAIR data
