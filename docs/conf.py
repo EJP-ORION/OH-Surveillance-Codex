@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'One Health Surveillance Codex Document'
+project = u'One Health Surveillance Codex Document: The Knowledge Integration Platform'
 copyright = u'2020, EJP-ORION '
 
 # The version info for the project you're documenting, acts as replacement for
