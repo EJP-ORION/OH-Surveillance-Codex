@@ -55,17 +55,18 @@ reports on OHS data, which could ultimately lead to improved mutual
 understanding and use of sector-specific data in future OH analysis.
 
 This OHS Codex therefore aims at establishing a high-level framework
-that supports collaboration, mutual understanding, knowledge exchange
-and data interoperability between OH sectors that will support
-integrated OHS data analyses and interpretation.
+that supports collaboration, mutual understanding, knowledge exchange,
+data interoperability and coordination between OH sectors that will support
+integrated OHS data analyses, data interpretation and OH decission making.
 
 Purpose
 -------
 
 The purpose of this OHS Codex is to provide users with guidance and
 resources, e.g. tools, technical solutions, guidance documents, that
-improve integrated OHS data analyses and interpretation between the
-different OHS sectors. With that the OHS Codex supports the ambitions
+support the design and planning of OH surveillance and monitoring activities 
+as well as OH-driven data analysis and interpretation by the
+different OHS sectors. With that, the OHS Codex supports the ambitions
 outlined in chapter 3, 4, and 5.1 to 5.3 of the FAO, OIE and WHO
 document ‘Taking a Multisectoral, One Health Approach: A Tripartite
 Guide to Addressing Zoonotic Diseases in Countries” [12]_ (Tripartite
@@ -117,7 +118,7 @@ Scope
 -----
 
 The scope of the OHS Codex is to provide a framework to embrace
-different tools and methods that can enhance OHS data analyses and
+different tools and methods that can enhance OHS data generation, analyses and
 interpretation. Currently, it is structured according to four core
 principles that were jointly defined by EJP-ORION project members as
 critical for achieving this objective. The OHS Codex framework has the
