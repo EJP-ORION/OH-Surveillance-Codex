@@ -150,6 +150,32 @@ Tools to annotate data using HSO
    https://github.com/RealEstateCore/ExcelRDF.
 
 
+FSKX format guidance document
+''''''''''''''''''''''''''''''''
+
+    The Food Safety Knowledge eXchange (FSKX) guidance document aims at
+    harmonizing the exchange of food safety knowledge (e.g. predictive
+    models or data analysis procedures) including the associated metadata.
+    It specifically supports the exchange of models that were developed in a
+    software or language dependent format. The FSKX format guidance document
+    is primarily designed for software developers or project managers and
+    describes in detail how data or models should be encoded in a FSKX
+    file.
+
+    The FSKX format provides also rules on how to annotate models and
+    simulation settings with partly model-class specific metadata. It has
+    been successfully applied to exchange models implemented in different
+    script-based programming languages (like R or Python) while providing
+    enough flexibility to incorporate models in other languages or even to
+    describe models only available as web service. The FSKX format also
+    describes how to encode combined models and how other model-related
+    information (e.g. simulation results, software packages, and
+    visualization scripts) can be included. Thus, all these FSKX format
+    features allow creating information objects that can be made available
+    in a FAIR way.
+
+    Link:
+    https://foodrisklabs.bfr.bund.de/fskx-food-safety-knowledge-exchange-format/
 Examples & Lessons learned
 --------------------------
 
