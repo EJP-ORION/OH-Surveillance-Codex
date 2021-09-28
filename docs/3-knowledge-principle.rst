@@ -7,7 +7,7 @@ The Knowledge principle: Improving the OHS knowledge base
 Purpose
 -------
 
-The Knowledge principle defines that better surveillance data
+The Knowledge principle defines that better surveillance planning, data
 integration and interpretation needs efficient and continuous knowledge
 exchange and joined knowledge evolution between all OH parties.
 
@@ -15,16 +15,7 @@ Therefore, the purpose of this principle is to provide surveillance
 professionals and stakeholders with guidance on available knowledge
 resources that may be used to foster an OH approach within their area of
 work, or to increase the value of their sector-specific surveillance
-reports for future OH analysis. The solutions and methods developed
-within the ORION project supporting the adoption of this principle are
-also accessible via the *One Health Surveillance Knowledge Hub,* a
-web-based technical infrastructure that facilitates knowledge exchange
-and joint knowledge generation within and across domains. Examples of
-such knowledge resources are the inventory of existing European
-surveillance systems for zoonoses, an inventory of statistical methods
-and tools used within those surveillance systems as well as an online
-handbook with guidance on implementation of national NGS infrastructure
-for improved OH surveillance.
+reports for future OH analysis.
 
 
 Scope
@@ -125,6 +116,29 @@ OH Knowledge Base - The Sequencing for Surveillance Handbook
    Link: https://oh-sfs-handbook.readthedocs.io/en/latest/
 
 ..
+RAKIP Model Repository
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+   The 'Risk Assessment Modelling and Knowledge Integration Platform'
+   (RAKIP) partners BfR, ANSES and DTU Food developed the RAKIP Model
+   Repository with the aim of supporting modellers, scientists, risk
+   assessors and risk managers in their efforts to share and re-use
+   mathematical models as well as data analysis procedures across OH
+   sectors. The RAKIP Model Repository is a curated web-based database
+   currently populated with executable mathematical models relevant for
+   food safety. These models are provided in the 'Food Safety Knowledge
+   eXchange' (FSKX) format, an open exchange format that can include data,
+   model scripts, visualization scripts, simulation settings and harmonized
+   metadata on the model / data. The RAKIP model repository provides a
+   user-friendly interface to access, filter and download the FSKX model
+   file. Registered users can also execute, edit or join models online.
+
+   Link to the resource:
+   https://knime.bfr.berlin/landingpage/RAKIP-Model-Repository
+
+   Link to the description of the resource:
+   https://foodrisklabs.bfr.bund.de/rakip-web-portal/
+
 
 
 Examples & Lessons learned
