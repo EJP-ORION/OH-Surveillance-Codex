@@ -1,6 +1,6 @@
 Authors
 -------
 
-* EJP ORION-consortium
+* EJP ORION & MATRIX consortium
 
 
