@@ -54,6 +54,15 @@ addition, the results reinforced the need for better harmonization of
 reports on OHS data, which could ultimately lead to improved mutual
 understanding and use of sector-specific data in future OH analysis.
 
+Another JIP currently in progress is called "MATRIX: Connecting
+dimensions in One-Health surveillance", which aims to strengthen OHS
+practices and synergies across the entire surveillance pipeline between
+the public health (PH), animal health (AH) and food safety (FS) sectors
+within each country (expected end in December 2022). MATRIX builds upon
+the foundation laid out by ORION and other projects, while focusing on
+cross-sectorial hazards (i.e. Salmonella, Campylobacter, Listeria, and
+emerging threats, including antimicrobial resistance).
+
 This OHS Codex therefore aims at establishing a high-level framework
 that supports collaboration, mutual understanding, knowledge exchange,
 data interoperability and coordination between OH sectors that will support
@@ -67,7 +76,7 @@ resources, e.g. tools, technical solutions, guidance documents, that
 support the design and planning of OH surveillance and monitoring activities 
 as well as OH-driven data analysis and interpretation by the
 different OHS sectors. With that, the OHS Codex supports the ambitions
-outlined in chapter 3, 4, and 5.1 to 5.3 of the FAO, OIE and WHO
+outlined in chapter 3, 4, and 5 of the FAO, OIE and WHO
 document ‘Taking a Multisectoral, One Health Approach: A Tripartite
 Guide to Addressing Zoonotic Diseases in Countries” [12]_ (Tripartite
 Guide) by proposing specific resources that support putting a true One
@@ -119,8 +128,8 @@ Scope
 
 The scope of the OHS Codex is to provide a framework to embrace
 different tools and methods that can enhance OHS data generation, analyses and
-interpretation. Currently, it is structured according to four core
-principles that were jointly defined by EJP-ORION project members as
+interpretation. Currently, it is structured according to five core
+principles that were jointly defined by the OHS Codex curation board as
 critical for achieving this objective. The OHS Codex framework has the
 potential to be expanded by more principles in the future in case the
 scope / objective is broadened. In this case the OHS Codex could become
@@ -140,14 +149,11 @@ a comprehensive hub of tools for OHS improvement.
 Principles
 ----------
 
-The OHS Codex framework is structured by four main principles,
-identified by ORION as four main areas, where cross-sector understanding
-and information exchange could be improved. The Codex describes each
-principle and within each provides solutions & methods available to
-organisations & researchers, who want to enhance OHS within each
-principle. The methods and tools included from the onset in the Codex
-were developed and tested within the EJP ORION project. However, the OHS
-Codex is designed as an updatable online resource that can be
+The OHS Codex framework is structured by five main principles.
+The OHS Codex describes each principle and within each of them it provides available
+solutions & methods to enhance OHS within each principle. These methods
+and tools were developed and tested within one of the EJP projects. 
+However, the OHS Codex is designed as an updatable online resource that can be
 continuously expanded when new useful methods & solutions become
 available.
 
