@@ -204,17 +204,13 @@ One Health Linked Data Toolbox (OHLDT)
 
     Link:
 
-    1. Linked Data Converter Tools(`RDF to
-          Excel <https://knime.bfr.berlin/knime/webportal/space/EJP_ORION/OH-LOD-Toolbox/LOD_Converter/RDF_to_EXCEL?exec&knime:access_token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUb2tlblVzZXJPcmlvbiIsInJvbGVzIjpbIk9SSU9OIiwiVE9LRU5VU0VSIl0sInNhbHQiOiI3YTAzZjNiNTllM2Y1YWE0IiwidG9rZW5OYW1lIjoidG9rZW5SREZfdG9fRVhDRUwiLCJ3b3JrZmxvd1BhdGgiOiIvRUpQX09SSU9OL09ILUxPRC1Ub29sYm94L0xPRF9Db252ZXJ0ZXIvUkRGX3RvX0VYQ0VMIiwidG9rZW5UeXBlIjoid29ya2Zsb3dUb2tlbiJ9.ME_0dDMQwIy1dQf_gg3B_GQZpHsZv0RoOQPU3GWJMgg>`__,
-          `Excel to
-          RDF <https://knime.bfr.berlin/knime/webportal/space/EJP_ORION/OH-LOD-Toolbox/LOD_Converter/EXCEL_to_RDF?exec&knime:access_token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUb2tlblVzZXJPcmlvbiIsInJvbGVzIjpbIk9SSU9OIiwiVE9LRU5VU0VSIl0sInNhbHQiOiJlOWRkNWI3YWQ4ZWYyOGU0IiwidG9rZW5OYW1lIjoidG9rZW5FWENFTF90b19SREYiLCJ3b3JrZmxvd1BhdGgiOiIvRUpQX09SSU9OL09ILUxPRC1Ub29sYm94L0xPRF9Db252ZXJ0ZXIvRVhDRUxfdG9fUkRGIiwidG9rZW5UeXBlIjoid29ya2Zsb3dUb2tlbiJ9.7KNuymSpiYfkDB9OUadVQRsgIeqRkg0ZKiYfeX3PnSk>`__)
+    1. Linked Data Converter Tools (`RDF to Excel <https://knime.bfr.berlin/knime/webportal/space/EJP_ORION/OH-LOD-Toolbox/LOD_Converter/RDF_to_EXCEL?exec&knime:access_token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUb2tlblVzZXJPcmlvbiIsInJvbGVzIjpbIk9SSU9OIiwiVE9LRU5VU0VSIl0sInNhbHQiOiI3YTAzZjNiNTllM2Y1YWE0IiwidG9rZW5OYW1lIjoidG9rZW5SREZfdG9fRVhDRUwiLCJ3b3JrZmxvd1BhdGgiOiIvRUpQX09SSU9OL09ILUxPRC1Ub29sYm94L0xPRF9Db252ZXJ0ZXIvUkRGX3RvX0VYQ0VMIiwidG9rZW5UeXBlIjoid29ya2Zsb3dUb2tlbiJ9.ME_0dDMQwIy1dQf_gg3B_GQZpHsZv0RoOQPU3GWJMgg>`__, `Excel to RDF <https://knime.bfr.berlin/knime/webportal/space/EJP_ORION/OH-LOD-Toolbox/LOD_Converter/EXCEL_to_RDF?exec&knime:access_token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUb2tlblVzZXJPcmlvbiIsInJvbGVzIjpbIk9SSU9OIiwiVE9LRU5VU0VSIl0sInNhbHQiOiJlOWRkNWI3YWQ4ZWYyOGU0IiwidG9rZW5OYW1lIjoidG9rZW5FWENFTF90b19SREYiLCJ3b3JrZmxvd1BhdGgiOiIvRUpQX09SSU9OL09ILUxPRC1Ub29sYm94L0xPRF9Db252ZXJ0ZXIvRVhDRUxfdG9fUkRGIiwidG9rZW5UeXBlIjoid29ya2Zsb3dUb2tlbiJ9.7KNuymSpiYfkDB9OUadVQRsgIeqRkg0ZKiYfeX3PnSk>`__)
 
-    2. `HSO data
-          list <https://knime.bfr.berlin/knime/webportal/space/EJP_ORION/OH-LOD-Toolbox/HSO_Toolbox/LinkedHealthSurveillanceDataSetBrowser?exec&knime:access_token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUb2tlblVzZXJPcmlvbiIsInJvbGVzIjpbIk9SSU9OIiwiVE9LRU5VU0VSIl0sInNhbHQiOiIzYzFiMjE2MDYzMDAyMjgwIiwidG9rZW5OYW1lIjoidG9rZW5EYXRhU2V0QnJvd3NlciIsIndvcmtmbG93UGF0aCI6Ii9FSlBfT1JJT04vT0gtTE9ELVRvb2xib3gvSFNPX1Rvb2xib3gvTGlua2VkSGVhbHRoU3VydmVpbGxhbmNlRGF0YVNldEJyb3dzZXIiLCJ0b2tlblR5cGUiOiJ3b3JrZmxvd1Rva2VuIn0.KuEtavFz5v1FqJsiPWgHCiWGVijLBB32CKfHgN1lH9s>`__
+    2. `HSO data list <https://knime.bfr.berlin/knime/webportal/space/EJP_ORION/OH-LOD-Toolbox/HSO_Toolbox/LinkedHealthSurveillanceDataSetBrowser?exec&knime:access_token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUb2tlblVzZXJPcmlvbiIsInJvbGVzIjpbIk9SSU9OIiwiVE9LRU5VU0VSIl0sInNhbHQiOiIzYzFiMjE2MDYzMDAyMjgwIiwidG9rZW5OYW1lIjoidG9rZW5EYXRhU2V0QnJvd3NlciIsIndvcmtmbG93UGF0aCI6Ii9FSlBfT1JJT04vT0gtTE9ELVRvb2xib3gvSFNPX1Rvb2xib3gvTGlua2VkSGVhbHRoU3VydmVpbGxhbmNlRGF0YVNldEJyb3dzZXIiLCJ0b2tlblR5cGUiOiJ3b3JrZmxvd1Rva2VuIn0.KuEtavFz5v1FqJsiPWgHCiWGVijLBB32CKfHgN1lH9s>`__
 
-    3. Linked Data Use Case *EFSA-ECDC Surveillance Data*
+    3. Linked Data Use Case  `EFSA-ECDC Surveillance Data <https://knime.bfr.berlin/knime/webportal/space/EJP_ORION/OH-LOD-Toolbox/LOD_Processing/EFSA_ECDC?exec&knime:access_token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUb2tlblVzZXJPcmlvbiIsInJvbGVzIjpbIk9SSU9OIiwiVE9LRU5VU0VSIl0sInNhbHQiOiI3NDA2NjI2ODM1NjMwOWI5IiwidG9rZW5OYW1lIjoidG9rZW5FRlNBX0VDREMiLCJ3b3JrZmxvd1BhdGgiOiIvRUpQX09SSU9OL09ILUxPRC1Ub29sYm94L0xPRF9Qcm9jZXNzaW5nL0VGU0FfRUNEQyIsInRva2VuVHlwZSI6IndvcmtmbG93VG9rZW4ifQ.IwEOlYkxhk-kdXA8DY-oLct0K6lKUo32-ANVC2w-_L0>`__
 
-    4. *HSO enrichment and maintenance web services*
+    4.  `HSO enrichment and maintenance web services <https://knime.bfr.berlin/knime/webportal/space/EJP_ORION/OH-LOD-Toolbox/HSO_Toolbox/EFSA_Catalogue_HSO>`__
     
     
 
