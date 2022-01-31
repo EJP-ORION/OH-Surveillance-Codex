@@ -91,7 +91,63 @@ National OHS Report Templates
 Examples & Lessons learned
 --------------------------
 
-   Several ORION project partners carry out national pilot studies to
-   test the Dissemination principles within a cross sectional approach.
-   Findings from these pilot studies will be reported here.
+   The pilot studies carried out in the ORION project confirmed that the
+   impact of surveillance activities largely depends on the
+   effectiveness of the dissemination process. In the execution of the
+   pilot studies in the ORION project it was highlighted the importance
+   of involving relevant actors participating in the surveillance
+   activity during the writing of the dissemination outputs. This means
+   not only participants from within each organisation but also from all
+   other agencies, collaborators and stakeholders involved to ensure
+   that the output is correctly contextualised. Another practical aspect
+   that complicates surveillance result dissemination is the fact that
+   despite agreements for data sharing across different
+   bodies/institutions might exist the different internal policies can
+   make the dissemination of data complicated and slow.
+
+   The Belgian and Danish pilots conducted during the EJP ORION project
+   considered as important the dissemination of results, not only at
+   national level but also to other countries (pilot reports provided as
+   annexes under the deliverables JIP1-2.7 and JIP1-2.9,
+   respectively) [20]_, [21]_. In general, it was highlighted that the
+   dissemination of surveillance outputs should be more frequent
+   transparent and concise in the future. In the German [22]_,
+   Swedish [23]_ and Danish [21]_ pilots it could be shown, that in order to
+   create OH oriented surveillance reports it might be useful to change
+   the structure of current surveillance reports, e.g. by introducing
+   new sections, re-structuring them into OH chapters to harmonise the
+   provisioning of the outputs or by using checklists like OH-CRAC. From
+   the experience within the ORION pilots one can conclude that the
+   efforts needed to implement such improvements are well invested, as
+   the newly designed surveillance reports were very well accepted by
+   policy users. Also the application of the new OH-CRAC checklist was
+   tested extensively and received positive feedback.
+
+.. [20]
+   Gethmann J, Selhorst T, Dups-Bergmann J, Ellis-Iversen J, Friesema I,
+   Lagesen K, Dórea F, Kuhn K, Dispas M, Gonzales Rojas J, Jore S,
+   Jernberg C, Cook C, & Larkin L. (2021). Deliverable JIP1-2.7 Revised
+   OH Knowledge Base - Epi, including lessons learned from the OH
+   pilots. Zenodo. https://doi.org/10.5281/zenodo.5062653
+
+.. [21]
+   Ellis-Iversen J, & Foddai A. (2021). Deliverable
+   JIP1-2.9 Revised OH Knowledge Base - Integration, including lessons
+   learned from the OH pilots. Zenodo.
+   https://doi.org/10.5281/zenodo.5062452
+
+.. [22]
+   López de Abechuco E, Filter M, Buschhardt T, Scaccia N, Günther T, &
+   Dórea F. (2021). Deliverable JIP1-1.3 Revised OH Surveillance Codex,
+   including lessons learned from the OH pilots. Zenodo.
+   https://doi.org/10.5281/zenodo.5062641
+
+.. [23]
+   Dórea F, Günther T, López de Abechuco E, Holmberg M, Jernberg C,
+   Hjertkvist M, Filter M, Foddai A, Ellis-Iversen, J, Cook C, Lawes J,
+   Larkin L, Friesema, I, Filippitz, M.E.;, Cargnel, M, Boseret, G, &
+   Lagesen K. (2021). Deliverable JIP1-3.3 Revised OH Harmonisation
+   Infrastructure Hub, including lessons learned from the OH pilots.
+   Zenodo. https://doi.org/10.5281/zenodo.5062410
+
 
