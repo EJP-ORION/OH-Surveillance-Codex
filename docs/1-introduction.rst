@@ -207,7 +207,13 @@ available.
    analysis for an "OH Knowledge Base – Integration" (ORION). Zenodo.
    http://doi.org/10.5281/zenodo.3754596
 
-
+.. [12]
+   Filter M., Buschhardt T., Dórea F., Lopez de Abechuco E., Günther T., 
+   Sundermann E. M., Gethmann J., Dups-Bergmann J., Lagesen K &
+   Ellis-Iversen J. One Health Surveillance Codex: promoting the adoption
+   of One Health solutions within and across European countries,
+   One Health, Volume 12, 2021. 
+   https://doi.org/10.1016/j.onehlt.2021.100233. http://doi.org/10.5281/zenodo.3754596
 
 .. [13]
    Taking a Multisectoral, One Health Approach:A Tripartite Guide to
