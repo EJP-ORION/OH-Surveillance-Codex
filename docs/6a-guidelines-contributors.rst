@@ -1,4 +1,4 @@
-Guidelines for OHS Codex contributors
+Guidelines for OHS Codex/KIP contributors
 =====================================
 
 The OHS Codex is a living resource that continuously evolves adapting to
