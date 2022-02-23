@@ -63,22 +63,24 @@ the foundation laid out by ORION and other projects, while focusing on
 cross-sectorial hazards (i.e. Salmonella, Campylobacter, Listeria, and
 emerging threats, including antimicrobial resistance).
 
-This OHS Codex therefore aims at establishing a high-level framework
+This OHS Codex/KIP therefore aims at establishing a high-level framework
 that supports collaboration, mutual understanding, knowledge exchange,
 data interoperability and coordination between OH sectors that will support
-integrated OHS data analyses, data interpretation and OH decission making.
+integrated OHS data analyses, data interpretation and OH decission making. 
+A manuscript describing the practical application scenarios of the OHS 
+Codex/KIP has been also published [12]_.
 
 Purpose
 -------
 
-The purpose of this OHS Codex is to provide users with guidance and
+The purpose of this OHS Codex/KIP is to provide users with guidance and
 resources, e.g. tools, technical solutions, guidance documents, that
 support the design and planning of OH surveillance and monitoring activities 
 as well as OH-driven data analysis and interpretation by the
-different OHS sectors. With that, the OHS Codex supports the ambitions
+different OHS sectors. With that, the OHS Codex/KIP supports the ambitions
 outlined in chapter 3, 4, and 5 of the FAO, OIE and WHO
 document ‘Taking a Multisectoral, One Health Approach: A Tripartite
-Guide to Addressing Zoonotic Diseases in Countries” [12]_ (Tripartite
+Guide to Addressing Zoonotic Diseases in Countries” [13]_ (Tripartite
 Guide) by proposing specific resources that support putting a true One
 Health approach (as described in the Tripartite Guide) into practice in
 Europe.
@@ -91,8 +93,8 @@ Europe.
     :alt: alternate text
     :figclass: align-center
 
-    Fig. 1: Connection between the Tripartite Guide and the four principles of the OHS Codex. 
-    The OHS Codex principles and their dimensions are indicated by coloured arrows. The icons correspond to the guiding icons from the Tripartite Guide.
+    Fig. 1: Connection between the Tripartite Guide and the four principles of the OHS Codex/KIP. 
+    The OHS Codex/KIP principles and their dimensions are indicated by coloured arrows. The icons correspond to the guiding icons from the Tripartite Guide.
 
 
 
@@ -100,7 +102,7 @@ Europe.
 Target community, main stakeholders and organizations
 -----------------------------------------------------
 
-According to the understanding of the authors elements of the OHS Codex
+According to the understanding of the authors elements of the OHS Codex/KIP
 will be useful for
 
 organizations or researchers that are involved in
@@ -126,11 +128,11 @@ Specifically, this includes
 Scope
 -----
 
-The scope of the OHS Codex is to provide a framework to embrace
+The scope of the OHS Codex/KIP is to provide a framework to embrace
 different tools and methods that can enhance OHS data generation, analyses and
 interpretation. Currently, it is structured according to five core
-principles that were jointly defined by the OHS Codex curation board as
-critical for achieving this objective. The OHS Codex framework has the
+principles that were jointly defined by the OHS Codex/KIP curation board as
+critical for achieving this objective. The OHS Codex/KIP framework has the
 potential to be expanded by more principles in the future in case the
 scope / objective is broadened. In this case the OHS Codex could become
 a comprehensive hub of tools for OHS improvement.
@@ -142,18 +144,18 @@ a comprehensive hub of tools for OHS improvement.
     :alt: alternate text
     :figclass: align-center
 
-    Fig. 2: The overview of the OHS Codex framework
+    Fig. 2: The overview of the OHS Codex/KIP framework
 
 
 
 Principles
 ----------
 
-The OHS Codex framework is structured by five main principles.
-The OHS Codex describes each principle and within each of them it provides available
+The OHS Codex/KIP framework is structured by five main principles.
+The OHS Codex/KIP describes each principle and within each of them it provides available
 solutions & methods to enhance OHS within each principle. These methods
 and tools were developed and tested within one of the EJP projects. 
-However, the OHS Codex is designed as an updatable online resource that can be
+However, the OHS Codex/KIP is designed as an updatable online resource that can be
 continuously expanded when new useful methods & solutions become
 available.
 
@@ -206,6 +208,14 @@ available.
    http://doi.org/10.5281/zenodo.3754596
 
 .. [12]
+   Filter M., Buschhardt T., Dórea F., Lopez de Abechuco E., Günther T., 
+   Sundermann E. M., Gethmann J., Dups-Bergmann J., Lagesen K &
+   Ellis-Iversen J. One Health Surveillance Codex: promoting the adoption
+   of One Health solutions within and across European countries,
+   One Health, Volume 12, 2021. 
+   https://doi.org/10.1016/j.onehlt.2021.100233. http://doi.org/10.5281/zenodo.3754596
+
+.. [13]
    Taking a Multisectoral, One Health Approach:A Tripartite Guide to
    Addressing Zoonotic Diseases in Countries
 
