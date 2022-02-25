@@ -59,7 +59,6 @@ FoodChain-Lab tracing software (FCL)
   .. figure:: ../assets/img/FoodChainLab_Figure.png
     :width: 6.28229in
     :align: center
-    :height:  3.98799in
     :alt: alternate text
     :figclass: align-center
    
