@@ -66,3 +66,4 @@ FoodChain-Lab tracing software (FCL)
     Fig. 4: FCL Web visualising the supply chain network of a fictitious
     foodborne disease outbreak in the **network view**, the **map view**,
     the **reporting view** and in the **data table**.
+  
