@@ -58,7 +58,7 @@ One Health Consensus Report Annotation Checklist (OH-CRAC)
     :alt: alternate text
     :figclass: align-center
    
-    Fig. 3: Schematic drawing of OH-CRAC that is proposed to map and structure
+    Fig. 5: Schematic drawing of OH-CRAC that is proposed to map and structure
     metadata in OH surveillance reports. Orange arrows indicate the mapping
     of metadata from federal/national systems (top) and
     European/international stakeholders (bottom) systems to the proposed
@@ -109,10 +109,10 @@ Examples & Lessons learned
    considered as important the dissemination of results, not only at
    national level but also to other countries (pilot reports provided as
    annexes under the deliverables JIP1-2.7 and JIP1-2.9,
-   respectively) [20]_, [21]_. In general, it was highlighted that the
+   respectively) [21]_, [22]_. In general, it was highlighted that the
    dissemination of surveillance outputs should be more frequent
-   transparent and concise in the future. In the German [22]_,
-   Swedish [23]_ and Danish [21]_ pilots it could be shown, that in order to
+   transparent and concise in the future. In the German [23]_,
+   Swedish [24]_ and Danish [22]_ pilots it could be shown, that in order to
    create OH oriented surveillance reports it might be useful to change
    the structure of current surveillance reports, e.g. by introducing
    new sections, re-structuring them into OH chapters to harmonise the
@@ -123,26 +123,26 @@ Examples & Lessons learned
    policy users. Also the application of the new OH-CRAC checklist was
    tested extensively and received positive feedback.
 
-.. [20]
+.. [21]
    Gethmann J, Selhorst T, Dups-Bergmann J, Ellis-Iversen J, Friesema I,
    Lagesen K, Dórea F, Kuhn K, Dispas M, Gonzales Rojas J, Jore S,
    Jernberg C, Cook C, & Larkin L. (2021). Deliverable JIP1-2.7 Revised
    OH Knowledge Base - Epi, including lessons learned from the OH
    pilots. Zenodo. https://doi.org/10.5281/zenodo.5062653
 
-.. [21]
+.. [22]
    Ellis-Iversen J, & Foddai A. (2021). Deliverable
    JIP1-2.9 Revised OH Knowledge Base - Integration, including lessons
    learned from the OH pilots. Zenodo.
    https://doi.org/10.5281/zenodo.5062452
 
-.. [22]
+.. [23]
    López de Abechuco E, Filter M, Buschhardt T, Scaccia N, Günther T, &
    Dórea F. (2021). Deliverable JIP1-1.3 Revised OH Surveillance Codex,
    including lessons learned from the OH pilots. Zenodo.
    https://doi.org/10.5281/zenodo.5062641
 
-.. [23]
+.. [24]
    Dórea F, Günther T, López de Abechuco E, Holmberg M, Jernberg C,
    Hjertkvist M, Filter M, Foddai A, Ellis-Iversen, J, Cook C, Lawes J,
    Larkin L, Friesema, I, Filippitz, M.E.;, Cargnel, M, Boseret, G, &
