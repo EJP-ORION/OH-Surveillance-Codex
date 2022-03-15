@@ -1,5 +1,5 @@
 ==========================================================================
-The Planning and Management principle
+The Planning and Management principle: Supporting the whole OHS process
 ==========================================================================
 
 
@@ -63,7 +63,55 @@ FoodChain-Lab tracing software (FCL)
     :figclass: align-center
    
 
-    Fig. 4: FCL Web visualising the supply chain network of a fictitious
+    Fig. 3: FCL Web visualising the supply chain network of a fictitious
     foodborne disease outbreak in the **network view**, the **map view**,
     the **reporting view** and in the **data table**.
+    
+    
+Surveillance Evaluation Framework (SurF)
+''''''''''''''''''''''''''''''''''''''''
+
+  Surveillance Evaluation Framework (SurF) is a free available online
+  guideline. It was initially developed by P. Muellner, K.D.C. Stärk, and
+  J. Watts [13]_ to provide a fit-for-purpose and efficient surveillance
+  evaluation framework for the Ministry for Primary Industries (MPI) in
+  New Zealand to assess surveillance activities, programmes, systems or
+  portfolios in a structured and adaptable way.
+
+  SurF builds upon and adapts previous work conducted nationally and
+  internationally in the context of the evaluation of human and animal
+  health surveillance. This includes in particular the SERVAL Framework
+  [14]_, the recently published guidelines by the European
+  Centre for Disease Control (ECDC, 2014), as well as the available
+  information describing the preliminary version of the EVA tool (RiskSur
+  Consortium 2013 & 2015), which at the time of writing is still under
+  development. An effort was made to align this framework with the
+  national standards proposed by the Aotearoa New Zealand Evaluation
+  Association (ANZEA, 2015) where possible.
+
+  SurF provides a common umbrella for surveillance evaluation in the
+  animal, plant, environment and marine sectors. It consists of four
+  components, each supporting a distinct phase in the evaluation. Each
+  component describes the activities and decisions related to a phase
+  within an evaluation project: (i) Motivation for the evaluation, (ii)
+  Scope of the evaluation, (iii) Evaluation design and implementation, and
+  (iv) Reporting and communication of evaluation outputs. The tool
+  provides users with an Evaluation Template to guide capturing input.
+  Further, SurF provides a visual output that allows for comparison of
+  core performance between systems and within individual systems over
+  time.
+
+  Link:
+  https://www.mpi.govt.nz/dmsdocument/18091-Surveillance-Evaluation-Framework-SurF-Main-Document
   
+  .. rubric:: References
+  
+.. [13]
+    Muellner, P, Watts, J, Bingham, P, et al. SurF: an innovative framework in biosecurity 
+    and animal health surveillance evaluation. Transbound Emerg Dis. 2018; 65: 1545– 1552. 
+    https://doi.org/10.1111/tbed.12898 
+
+.. [14]
+    Drewe, J.A., Hoinville, L.J., Cook, A.J.C., Floyd, T., Gunn, G. and Stärk, K.D.C. (2015), 
+    SERVAL: A New Framework for the Evaluation of Animal Health Surveillance. Transbound Emerg 
+    Dis, 62: 33-45. https://doi.org/10.1111/tbed.12063
