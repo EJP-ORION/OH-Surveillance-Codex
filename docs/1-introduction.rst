@@ -87,14 +87,16 @@ Europe.
 
 
 
-.. figure:: ../assets/img/20201118_Tripartite_OHS_CODEX_adapted.png
+.. figure:: ../assets/img/20220314_OHS_CODEX_TripartiteGuide.png
     :width: 6.28229in
     :align: center
     :alt: alternate text
     :figclass: align-center
 
-    Fig. 1: Connection between the Tripartite Guide and the four principles of the OHS Codex/KIP. 
-    The OHS Codex/KIP principles and their dimensions are indicated by coloured arrows. The icons correspond to the guiding icons from the Tripartite Guide.
+    Fig. 1: Connection between the Tripartite Guide and the four principles
+    of the OHS Codex/KIP. The OHS Codex/KIP principles and their dimensions
+    are indicated by coloured arrows. The icons correspond to the guiding
+    icons from the Tripartite Guide.
 
 
 
@@ -137,15 +139,18 @@ potential to be expanded by more principles in the future in case the
 scope / objective is broadened. In this case the OHS Codex could become
 a comprehensive hub of tools for OHS improvement.
 
-.. figure:: ../assets/img/20210301_Codex_Figure.png
+.. figure:: ../assets/img/20220314_OHS_CODEX_principles.png
     :width: 6.27083in
     :align: center
     :height:  4.69444in
     :alt: alternate text
     :figclass: align-center
 
-    Fig. 2: The overview of the OHS Codex/KIP framework
-
+    Fig. 2: The overview of the OHS Codex/KIP framework structured into five
+    principles. The white boxes under each principle show examples of some
+    of the solutions, tools and resources included into the OHS Codex/ KIP.
+    The “lessons learned” boxes describe practical OH activities carried
+    out, e.g.during the OH European Joint Programme (OHEJP) projects.
 
 
 Principles
@@ -219,9 +224,8 @@ available.
    Taking a Multisectoral, One Health Approach:A Tripartite Guide to
    Addressing Zoonotic Diseases in Countries
 
-.. |image0| image:: ../assets/img/20190812_Tripartite_OHS_CODEX_adapted.png
+.. |image0| image:: ../assets/img/20220314_OHS_CODEX_TripartiteGuide.png
    :width: 6.28229in
-   :height: 3.98799in
-.. |image1| image:: ../assets/img/20190823_updated_OHS_CODEX_figure.png
+  
+.. |image1| image:: ../assets/img/20220314_OHS_CODEX_principles.png
    :width: 6.27083in
-   :height: 4.69444in

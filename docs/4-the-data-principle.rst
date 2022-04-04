@@ -42,7 +42,7 @@ Methods
    velocity and variety - is only useful to support surveillance if it
    can be used to produce information to support decision-making. The
    FAIR data principles (findable, accessible, interoperable and
-   reusable) [13]_ aim at “assisting humans and machines in their
+   reusable) [16]_ aim at “assisting humans and machines in their
    discovery of, access to, integration and analysis of,
    task-appropriate scientific data and their associated algorithms and
    workflows”. *Findability* requires that the entire dataset or data
@@ -64,7 +64,7 @@ Methods
    and countries. Interoperability is used here to mean “the ability of
    different information technology systems and software applications to
    communicate, exchange data, and use the information that has been
-   exchanged” [14]_. EFSA and ECDC have done significant work, in their
+   exchanged” [17]_. EFSA and ECDC have done significant work, in their
    respective domains, to solve the problem of **structural
    interoperability** among datasets from different countries. As a
    result, standardised datasets collating surveillance information at
@@ -99,7 +99,7 @@ Methods
    “\ *An ontology defines a common vocabulary for researchers who need
    to share information in a domain. It includes machine-interpretable
    definitions of basic concepts in the domain and relations among
-   them*\ ” [15]_.
+   them*\ ” [18]_.
 
    In order to attend the need for a human- and machine-readable
    knowledge model for surveillance, ORION has developed a **Health
@@ -115,7 +115,7 @@ Methods
    page listing all ontology documentation and additional resources,
    such training materials. Software agents pointed to the same address
    will find the machine-readable codes for the knowledge model (written
-   using the Web Ontology Language - OWL [16]_).
+   using the Web Ontology Language - OWL [19]_).
    
    The Health Surveillance Ontology is a full FAIR resource.
    
@@ -144,7 +144,7 @@ Tools to annotate data using HSO
    that reason, we have, in collaboration with other projects, developed
    a tool for semantic annotation of data in Excel, and subsequent
    export of the data in Resource Description Framework (RDF)
-   format [17]_, a standard model for data interchange on the Web. The
+   format [20]_, a standard model for data interchange on the Web. The
    Excel plug-in is free and open source. Codes for developers, as well
    as a guide to install the plug-in for users are available at
    https://github.com/RealEstateCore/ExcelRDF.
@@ -242,23 +242,23 @@ Examples & Lessons learned
 
 .. rubric:: References
 
-.. [13]
+.. [16]
    Findable, Accessible, Interoperable, Reusable.
    https://www.force11.org/group/fairgroup/fairprinciples
 
-.. [14]
+.. [17]
    HIMSS Dictionary of Healthcare Information Technology Terms, Acronyms
    and Organizations, 2nd Edition, 2010, Appendix B, p190
 
-.. [15]
+.. [18]
    Natalya F. Noy and Deborah L. Mcguinness. 2001. Ontology Development
    101: A Guide to Creating Your First Ontology. Available at
    http://protege.stanford.edu/publications/ontology\_development/ontology101.pdf
 
-.. [16]
+.. [19]
    https://www.w3.org/OWL/
 
-.. [17]
+.. [20]
    https://www.w3.org/RDF/
 
 

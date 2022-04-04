@@ -106,7 +106,7 @@ OH Surveillance Pathway Visualization
    does provide a proper tool to facilitate cross-sector communication.
    
    .. figure:: ../assets/img/SurveillancePathway.png
-   Figure 1. The "Surveillance Pathway Visualization" illustrates the different process steps carried out in animal health, public health and food safety surveillance. The red arrows indicate where surveillance activities could be connected between two or all three sectors to support the OH concept. 
+   Figure 4. The "Surveillance Pathway Visualization" illustrates the different process steps carried out in animal health, public health and food safety surveillance. The red arrows indicate where surveillance activities could be connected between two or all three sectors to support the OH concept. 
 
 
 Examples & Lessons learned
@@ -116,11 +116,11 @@ Positive lessons and tools that facilitated collaboration and characterised posi
  
 Some pilot projects saw collaboration grow after having ‘planted the seed’ a while ago. However, this approach is not well-suited for a project with a specific end time. In general, it was recognised that One Health Surveillance Initiatives (OHSI) take time to develop and establish, which does not always fit well with academic project deadlines. Some pilot projects experienced that success in starting up an OHSI could be very person-dependent and convincing individuals to integrate their expert topics with others could be a barrier.
  
-Lack of sufficient leadership support both internally in the organisations and externally was highlighted as problem. This is a known barrier for additional OH integration between policy areas and portfolios [14]_. For some of the OHSI-developing pilot projects, it could be difficult to  get buy-in from or within organisations without proof-of-principle. Interesting, in contrast our tool-developing pilot projects found that, despite offering and demonstrating an actual tool, it was difficult to obtain adoption in existing OHSI.
+Lack of sufficient leadership support both internally in the organisations and externally was highlighted as problem. This is a known barrier for additional OH integration between policy areas and portfolios [15]_. For some of the OHSI-developing pilot projects, it could be difficult to  get buy-in from or within organisations without proof-of-principle. Interesting, in contrast our tool-developing pilot projects found that, despite offering and demonstrating an actual tool, it was difficult to obtain adoption in existing OHSI.
 
 .. rubric:: References
 
-.. [14]
+.. [15]
    Dos S Ribeiro, C., van de Burgwal, L., & Regeer, B. J. (2019). 
    Overcoming challenges for designing and implementing the One Health approach: 
    A systematic review of the literature. One health (Amsterdam, Netherlands), 7, 100085.
