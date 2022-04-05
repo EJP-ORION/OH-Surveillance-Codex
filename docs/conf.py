@@ -135,6 +135,10 @@ html_static_path = ['_static']
 # or fully qualified paths (eg. https://...)
 html_css_files = ['css/custom.css',]
 
+#Use custom.css file
+def setup(app):
+    app.add_css_file('custom.css')
+
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
 # directly to the root of the documentation.
