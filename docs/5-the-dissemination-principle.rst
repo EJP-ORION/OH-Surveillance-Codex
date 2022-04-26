@@ -1,5 +1,5 @@
 ==========================================================================
-The Dissemination principle: Supporting external communication of OHS outcomes
+5. The Dissemination principle: Supporting external communication of OHS outcomes
 ==========================================================================
 
 
