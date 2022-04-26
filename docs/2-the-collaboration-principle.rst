@@ -1,5 +1,5 @@
 =========================================================================================
-The Collaboration principle: Supporting OHS collaboration & cross-sectorial communication
+2. The Collaboration principle: Supporting OHS collaboration & cross-sectorial communication
 =========================================================================================
 
 .. _purpose-1:
