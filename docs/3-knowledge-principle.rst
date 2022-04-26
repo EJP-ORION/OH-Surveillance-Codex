@@ -1,5 +1,5 @@
 =========================================================
-The Knowledge principle: Improving the OHS knowledge base
+3. The Knowledge principle: Improving the OHS knowledge base
 =========================================================
 
 
