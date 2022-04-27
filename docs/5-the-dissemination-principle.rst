@@ -87,6 +87,36 @@ National OHS Report Templates
    https://www.danmap.org/-/media/arkiv/projekt-sites/danmap/danmap-reports/danmap-2018/danmap_2018.pdf?la=en
 
 
+Training materials and examples for OHS reports
+-----------------------------------------------
+
+Outbreak guide (Utbruddsveilederen)
+'''''''''''''''''''''''''''''''''''
+
+The outbreak guide is created to serve municipal doctors and the
+Norwegian Food Safety Authority when it comes to clarifying disease
+outbreaks caused by infection from food, water or animals. The guide
+presents the methods and how the responsibility is distributed as well
+as templates for questionnaires, reports and database to register
+patients, guidelines for cooperation in the municipalities and
+additional litterature.
+
+Link: https://www.fhi.no/nettpub/utbruddsveilederen/
+
+Webinar: Vaccine and Infection Control days 2021 Norway ( Vaksine- og smitteverndager 2021)
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+The vaccine and infection control days in 2021 shed light on various
+current topics within vaccination and infection control and are mainly
+intended for health personnel who work with infection control and / or
+vaccines in both municipal and specialist health services. These can be
+health nurses, nurses, health station doctors, general practitioners,
+paediatricians, infection control doctors, infection control officers
+and other health personnel who work with infection control and vaccines.
+
+Link:
+https://www.fhi.no/om/kurs-og-konferanser/webinar-vaksine--og-smitteverndager-2021/
+
 
 Examples & Lessons learned
 --------------------------
