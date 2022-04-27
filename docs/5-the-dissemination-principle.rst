@@ -90,7 +90,7 @@ National OHS Report Templates
 Training materials and examples for OHS reports
 -----------------------------------------------
 
-Outbreak guide (Utbruddsveilederen)
+Outbreak guide Norway (Utbruddsveilederen)
 '''''''''''''''''''''''''''''''''''
 
 The outbreak guide is created to serve municipal doctors and the
@@ -103,7 +103,7 @@ additional litterature.
 
 Link: https://www.fhi.no/nettpub/utbruddsveilederen/
 
-Webinar: Vaccine and Infection Control days 2021 Norway ( Vaksine- og smitteverndager 2021)
+Webinar: Vaccine and Infection Control days 2021 Norway (Vaksine- og smitteverndager 2021)
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 The vaccine and infection control days in 2021 shed light on various
