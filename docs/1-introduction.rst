@@ -242,14 +242,14 @@ Download
 
 The OHS Codex/KIP document is also available to download as:
 
-PDF:
-https://oh-surveillance-codex.readthedocs.io/_/downloads/en/latest/pdf/
+    PDF:
+    https://oh-surveillance-codex.readthedocs.io/_/downloads/en/latest/pdf/
 
-HTML:
-https://oh-surveillance-codex.readthedocs.io/_/downloads/en/latest/htmlzip/
+    HTML:
+    https://oh-surveillance-codex.readthedocs.io/_/downloads/en/latest/htmlzip/
 
-EPUB:
-https://oh-surveillance-codex.readthedocs.io/_/downloads/en/latest/epub/
+    EPUB:
+    https://oh-surveillance-codex.readthedocs.io/_/downloads/en/latest/epub/
 
 
 
