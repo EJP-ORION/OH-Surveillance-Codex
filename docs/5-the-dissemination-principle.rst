@@ -91,7 +91,7 @@ Training materials and examples for OHS reports
 -----------------------------------------------
 
 Outbreak guide Norway (Utbruddsveilederen)
-'''''''''''''''''''''''''''''''''''
+''''''''''''''''''''''''''''''''''''''''''
 
 The outbreak guide is created to serve municipal doctors and the
 Norwegian Food Safety Authority when it comes to clarifying disease
@@ -109,13 +109,69 @@ Webinar: Vaccine and Infection Control days 2021 Norway (Vaksine- og smittevernd
 The vaccine and infection control days in 2021 shed light on various
 current topics within vaccination and infection control and are mainly
 intended for health personnel who work with infection control and / or
-vaccines in both municipal and specialist health services. These can be
-health nurses, nurses, health station doctors, general practitioners,
-paediatricians, infection control doctors, infection control officers
-and other health personnel who work with infection control and vaccines.
+vaccines in both municipal and specialist health services. 
 
 Link:
 https://www.fhi.no/om/kurs-og-konferanser/webinar-vaksine--og-smitteverndager-2021/
+
+Outbreaks of infectious diseases in Norway in 2020. Annual report (Utbrudd av smittsomme sykdommer i Norge i 2020. Årsrapport)
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+This report provides an overview of outbreaks that have been notified to
+the Norwegian Institute of Public Health in 2020. It is important to
+point out that this overview does not provide a full and complete
+picture of outbreaks in Norway during this period. The degree of
+underreporting varies considerably. This report is based on information
+from the outbreak alert system, Vesus
+(`www.vesuv.no <http://www.vesuv.no>`__)which contains information on
+outbreaks of infectious disease in the population and the cause of the
+outbreaks.
+
+Link:
+https://www.fhi.no/publ/2021/utbrudd-av-smittsomme-sykdommer-i-norge-i-2020/
+
+.. _section-4:
+
+Norwegian Annual report 2020 - Surveillance of infections from food, water and animals including vector borne diseases
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+This annual report describes the incidence of the most common diseases
+that are transmitted by food, water and animals, including vector-borne
+infections, which have been reported to the Norwegian Institute of
+Public Health in 2020. The report includes interactive links to websites
+with further background information on the various diseases mentioned in
+the report.
+
+Link:
+https://www.fhi.no/publ/2021/arsrapport-2020-smitte-fra-mat-vann-og-dyr/
+
+Surveillance of infectious diseases in animals and humans in Sweden 2020
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Surveillance of infectious diseases in animals and humans is the annual
+report describing the surveillance activities carried out in Sweden
+during the year. The report covers surveillance for important animal
+diseases and zoonotic agents in humans, food, feed and animals, carried
+out and compiled by experts from several Swedish governmental agencies,
+university and the private industry with surveillance mandates along the
+entire food chain, from farm to fork.
+
+Link:
+https://www.sva.se/media/8d93fbc7f66d298/surveillance-of-infectious-diseases-in-animals-and-humans-in-sweden-2020.pdf
+
+
+Norwegian Infection Control Guide (Smittevernveilederen)
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+The Infection Control Guide is a reference work on the prevention and
+control of infectious diseases. The main target group is employees in
+the municipal health service. The Guide is divided into two main groups;
+a section on various infection control topics and a section on
+individual diseases.
+
+Link:
+
+https://www.fhi.no/nettpub/smittevernveilederen/
 
 
 Examples & Lessons learned
