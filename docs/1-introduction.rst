@@ -40,21 +40,22 @@ European legislation. Moreover, no generic strategy for surveillance
 data reporting is currently available that could be adopted by all OHS
 related scientific disciplines including e.g. environmental science.
 
-The Joint Integrative Project (JIP) “One health suRveillance Initiative
-on harmOnization of data collection and interpretatioN” (ORION) aims at
-establishing and strengthening inter-institutional collaboration and
-transdisciplinary knowledge transfer in the area of One Health
-Surveillance (OHS) data integration and interpretation. Detailed
-requirement analyses were performed within ORION to identify current
-best practices, resources and needs within the OHS community [11]_.
-Results from the requirement analyses confirmed that cross-sectoral and
-multi-disciplinary communication, collaboration and knowledge exchange
-are still significant challenges for the European OHS community. In
-addition, the results reinforced the need for better harmonization of
-reports on OHS data, which could ultimately lead to improved mutual
-understanding and use of sector-specific data in future OH analysis.
+The One Health EJP H2020 Joint Integrative Project (JIP) “One health 
+suRveillance Initiative on harmOnization of data collection and 
+interpretatioN” (ORION) aims at establishing and strengthening 
+inter-institutional collaboration and transdisciplinary knowledge 
+transfer in the area of One Health Surveillance (OHS) data integration 
+and interpretation. Detailed requirement analyses were performed within 
+ORION to identify current best practices, resources and needs within 
+the OHS community [11]_. Results from the requirement analyses confirmed 
+that cross-sectoral ande multi-disciplinary communication, collaboration 
+and knowledge exchange are still significant challenges for the European 
+OHS community. In addition, the results reinforced the need for better 
+harmonization of reports on OHS data, which could ultimately lead to 
+improved mutualnunderstanding and use of sector-specific data in 
+future One Health analysis.
 
-Another JIP currently in progress is called "MATRIX: Connecting
+Another One Health EJP H2020 JIP currently in progress is called "MATRIX: Connecting
 dimensions in One-Health surveillance", which aims to strengthen OHS
 practices and synergies across the entire surveillance pipeline between
 the public health (PH), animal health (AH) and food safety (FS) sectors
@@ -93,7 +94,7 @@ Europe.
     :alt: alternate text
     :figclass: align-center
 
-    Fig. 1: Connection between the Tripartite Guide and the four principles
+    Fig. 1: Connection between the Tripartite Guide and the five principles
     of the OHS Codex/KIP. The OHS Codex/KIP principles and their dimensions
     are indicated by coloured arrows. The icons correspond to the guiding
     icons from the Tripartite Guide.
@@ -149,7 +150,7 @@ a comprehensive hub of tools for OHS improvement.
     Fig. 2: The overview of the OHS Codex/KIP framework structured into five
     principles. The white boxes under each principle show examples of some
     of the solutions, tools and resources included into the OHS Codex/ KIP.
-    The “lessons learned” boxes describe practical OH activities carried
+    The “lessons learned” boxes describe practical One Health activities carried
     out, e.g.during the OH European Joint Programme (OHEJP) projects.
 
 
