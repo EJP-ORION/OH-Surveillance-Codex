@@ -1,7 +1,9 @@
 .wy-side-nav-search, .wy-nav-top {
-    background: #13699f;
+    /*background: #13699f; blue OHEJP color*/
+    background: #ffffff;
+    color: #13699f;
 }
 
   /* Sidebar 
   .wy-nav-side {
-    background: #e07931;}*/
+    background: #13699f;}*/
