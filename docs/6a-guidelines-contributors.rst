@@ -58,17 +58,18 @@ send us an email to ejp-orion@bfr.bund.de.
 **Principles**
 
    Currently, the OHS Codex/KIP is structured according to four core
-   principles that were jointly defined by OHEJP ORION and MATRIX project members as
-   critical to enhance OHS data analyses and interpretation. If you
-   consider that the scope and objective of the OHS Codex/KIP can be
-   extended to other areas of action and this way support a wider OH
-   community, propose a new principle section under the OHS Codex/KIP
-   document providing a description of the purpose and scope of this
-   principle. If possible include existing solutions or methods
-   available to support OHS researchers, organisations or stakeholders.
-   Proposal to extend the scope of the OHS Codex/KIP will only be considered 
-   if the author provides contact information, so the OHS Codex/KIP team can 
-   invite that author to the OHS Codex/KIP steering board discussions. 
+   principles that were jointly defined by One Health EJP H2020 ORION 
+   and MATRIX project members as critical to enhance OHS data analyses 
+   and interpretation. If you consider that the scope and objective of 
+   the OHS Codex/KIP can be extended to other areas of action and this 
+   way support a wider One Health community, propose a new principle 
+   section under the OHS Codex/KIP document providing a description 
+   of the purpose and scope of this principle. If possible include 
+   existing solutions or methods available to support OHS researchers, 
+   organisations or stakeholders. Proposal to extend the scope of the 
+   OHS Codex/KIP will only be considered if the author provides contact 
+   information, so the OHS Codex/KIP team can invite that author 
+   to the OHS Codex/KIP steering board discussions. 
 
 
 **Evaluation of the contributions**
@@ -86,7 +87,7 @@ For further questions please contact us via ejp-orion@bfr.bund.de.
 -----------------------
 
 As a contributor to the OHS Codex/KIP you agree that we may redistribute
-your work under the license that the OHEJP ORION and MATRIX projects use. We expect
+your work under the license that the One Health EJP H2020 ORION and MATRIX projects use. We expect
 all contributors to comply with the *Contributor Covenant Code of
 Conduct,* version 1.4, available at
 https://www.contributor-covenant.org/version/1/4/code-of-conduct.html.
