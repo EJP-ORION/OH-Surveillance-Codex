@@ -119,7 +119,7 @@ organizations or researchers that are involved in
 
 Specifically, this includes
 
--  the EJP consortium and their follow up organization
+-  the One HEalth EJP H2020 project consortium and their follow up organization
 
 -  national authorities in Europe involved in OHS
 
@@ -164,79 +164,115 @@ However, the OHS Codex/KIP is designed as an updatable online resource that can 
 continuously expanded when new useful methods & solutions become
 available.
 
-+-------------+-------------+-------------+-------------+-------------+
-| **Planning  | **Co        | **Knowledge | **Data      | **Di        |
-| and         | llaboration | principle** | principle** | ssemination |
-| Management  | principle** |             |             | principle** |
-| principle** |             |             |             |             |
-+=============+=============+=============+=============+=============+
-| `FoodChain- | `OHEJP      | `OH         | `Health     | `One Health |
-| Lab <https: | Glossary    | Knowledge   | S           | Consensus   |
-| //oh-survei |  <https://o | Base –      | urveillance | Report      |
-| llance-code | h-surveilla | S           | Ontology    | Annotation  |
-| x.readthedo | nce-codex.r | urveillance | (HS         | Checklist   |
-| cs.io/en/la | eadthedocs. | s           | O) <https:/ | (OH-CRA     |
-| test/1-the- | io/en/lates | ystems <htt | /oh-surveil | C) <https:/ |
-| planning-an | t/2-the-col | ps://oh-sur | lance-codex | /oh-surveil |
-| d-managemen | laboration- | veillance-c | .readthedoc | lance-codex |
-| t-principle | principle.h | odex.readth | s.io/en/lat | .readthedoc |
-| .html#foodc | tml#ohejp-g | edocs.io/en | est/4-the-d | s.io/en/lat |
-| hain-lab-tr | lossary>`__ | /latest/3-k | ata-princip | est/5-the-d |
-| acing-softw |             | nowledge-pr | le.html#hea | isseminatio |
-| are-fcl>`__ | `OHS        | inciple.htm | lth-surveil | n-principle |
-|             | Initiatives | l#oh-knowle | lance-ontol | .html#one-h |
-| `S          | and         | dge-base-su | ogy-hso>`__ | ealth-conse |
-| urveillance | Inspi       | rveillance- |             | nsus-report |
-| Evaluation  | ration <htt | systems>`__ | `Tools to   | -annotation |
-| Framework   | ps://oh-sur |             | annotate    | -checklist- |
-| (SurF)      | veillance-c | `OH         | data using  | oh-crac>`__ |
-| <https://oh | odex.readth | Knowledge   | H           |             |
-| -surveillan | edocs.io/en | Base - The  | SO <https:/ | `National   |
-| ce-codex.re | /latest/2-t | Sequencing  | /oh-surveil | OHS Report  |
-| adthedocs.i | he-collabor | for         | lance-codex | Te          |
-| o/en/latest | ation-princ | S           | .readthedoc | mplates <ht |
-| /1-the-plan | iple.html#o | urveillance | s.io/en/lat | tps://oh-su |
-| ning-and-ma | hs-initiati | Handbook <h | est/4-the-d | rveillance- |
-| nagement-pr | ves-ideas-a | ttps://oh-s | ata-princip | codex.readt |
-| inciple.htm | nd-inspirat | urveillance | le.html#too | hedocs.io/e |
-| l#surveilla | ion-ohs-ins | -codex.read | ls-to-annot | n/latest/5- |
-| nce-evaluat | piration-ca | thedocs.io/ | ate-data-us | the-dissemi |
-| ion-framewo | talogue>`__ | en/latest/3 | ing-hso>`__ | nation-prin |
-| rk-surf>`__ |             | -knowledge- |             | ciple.html# |
-|             | `OHS        | principle.h | `FSKX       | national-oh |
-|             | Pathway     | tml#oh-know | format      | s-report-te |
-|             | <https://oh | ledge-base- | guidance    | mplates>`__ |
-|             | -surveillan | the-sequenc | doc         |             |
-|             | ce-codex.re | ing-for-sur | ument <http | *Training   |
-|             | adthedocs.i | veillance-h | s://oh-surv | materials   |
-|             | o/en/latest | andbook>`__ | eillance-co | and         |
-|             | /2-the-coll |             | dex.readthe | examples    |
-|             | aboration-p |             | docs.io/en/ | for OHS     |
-|             | rinciple.ht |             | latest/4-th | reports*    |
-|             | ml#oh-surve |             | e-data-prin |             |
-|             | illance-pat |             | ciple.html# |             |
-|             | hway-visual |             | fskx-format |             |
-|             | ization>`__ |             | -guidance-d |             |
-|             |             |             | ocument>`__ |             |
-|             |             |             |             |             |
-|             |             |             | `One Health |             |
-|             |             |             | Linked Data |             |
-|             |             |             | Toolbox     |             |
-|             |             |             | (OHLDT) <   |             |
-|             |             |             | https://oh- |             |
-|             |             |             | surveillanc |             |
-|             |             |             | e-codex.rea |             |
-|             |             |             | dthedocs.io |             |
-|             |             |             | /en/latest/ |             |
-|             |             |             | 4-the-data- |             |
-|             |             |             | principle.h |             |
-|             |             |             | tml#one-hea |             |
-|             |             |             | lth-linked- |             |
-|             |             |             | data-toolbo |             |
-|             |             |             | x-ohldt>`__ |             |
-+-------------+-------------+-------------+-------------+-------------+
-
-
++----------------------------------+----------------------------------+
+| Principle                        | Method                           |
++==================================+==================================+
+| `1. Planning and Management      | `FoodChain-Lab <https://oh       |
+| principle <https:/               | -surveillance-codex.readthedocs. |
+| /oh-surveillance-codex.readthedo | io/en/latest/1-the-planning-and- |
+| cs.io/en/latest/1-the-planning-a | management-principle.html#foodch |
+| nd-management-principle.html>`__ | ain-lab-tracing-software-fcl>`__ |
+|                                  |                                  |
+|                                  | `Surveillance Evaluation         |
+|                                  | Framework                        |
+|                                  | (SurF) <https://oh-sur           |
+|                                  | veillance-codex.readthedocs.io/e |
+|                                  | n/latest/1-the-planning-and-mana |
+|                                  | gement-principle.html#surveillan |
+|                                  | ce-evaluation-framework-surf>`__ |
++----------------------------------+----------------------------------+
+| `2. Collaboration                | `OHEJP                           |
+| principl                         | Glossary <https://oh-s           |
+| e <https://oh-surveillance-codex | urveillance-codex.readthedocs.io |
+| .readthedocs.io/en/latest/2-the- | /en/latest/2-the-collaboration-p |
+| collaboration-principle.html>`__ | rinciple.html#ohejp-glossary>`__ |
+|                                  |                                  |
+|                                  | `OHS Initiatives and             |
+|                                  | Inspiratio                       |
+|                                  | n <https://oh-surveillance-codex |
+|                                  | .readthedocs.io/en/latest/2-the- |
+|                                  | collaboration-principle.html#ohs |
+|                                  | -initiatives-ideas-and-inspirati |
+|                                  | on-ohs-inspiration-catalogue>`__ |
+|                                  |                                  |
+|                                  | `OHS                             |
+|                                  | Pathway <htt                     |
+|                                  | ps://oh-surveillance-codex.readt |
+|                                  | hedocs.io/en/latest/2-the-collab |
+|                                  | oration-principle.html#oh-survei |
+|                                  | llance-pathway-visualization>`__ |
++----------------------------------+----------------------------------+
+| `3. Knowledge                    | `OH Knowledge Base –             |
+| principle <https://oh-surveillan | Surveillance                     |
+| ce-codex.readthedocs.io/en/lates | syste                            |
+| t/3-knowledge-principle.html>`__ | ms <https://oh-surveillance-code |
+|                                  | x.readthedocs.io/en/latest/3-kno |
+|                                  | wledge-principle.html#oh-knowled |
+|                                  | ge-base-surveillance-systems>`__ |
+|                                  |                                  |
+|                                  | `OH Knowledge Base - The         |
+|                                  | Sequencing for Surveillance      |
+|                                  | Handbook <https://oh-surve       |
+|                                  | illance-codex.readthedocs.io/en/ |
+|                                  | latest/3-knowledge-principle.htm |
+|                                  | l#oh-knowledge-base-the-sequenci |
+|                                  | ng-for-surveillance-handbook>`__ |
+|                                  |                                  |
+|                                  | `RAKIP Model                     |
+|                                  | Repository <https://oh-s         |
+|                                  | urveillance-codex.readthedocs.io |
+|                                  | /en/latest/3-knowledge-principle |
+|                                  | .html#rakip-model-repository>`__ |
++----------------------------------+----------------------------------+
+| `4. Data                         | `Health Surveillance Ontology    |
+| principle <https://oh-surveilla  | (HSO) <https://oh-surveillan     |
+| nce-codex.readthedocs.io/en/late | ce-codex.readthedocs.io/en/lates |
+| st/4-the-data-principle.html>`__ | t/4-the-data-principle.html#heal |
+|                                  | th-surveillance-ontology-hso>`__ |
+|                                  |                                  |
+|                                  | `Tools to annotate data using    |
+|                                  | HSO <https://oh-surveillan       |
+|                                  | ce-codex.readthedocs.io/en/lates |
+|                                  | t/4-the-data-principle.html#tool |
+|                                  | s-to-annotate-data-using-hso>`__ |
+|                                  |                                  |
+|                                  | `FSKX format guidance            |
+|                                  | document <https://oh-surveil     |
+|                                  | lance-codex.readthedocs.io/en/la |
+|                                  | test/4-the-data-principle.html#f |
+|                                  | skx-format-guidance-document>`__ |
+|                                  |                                  |
+|                                  | `One Health Linked Data Toolbox  |
+|                                  | (O                               |
+|                                  | HLDT) <https://oh-surveillance-c |
+|                                  | odex.readthedocs.io/en/latest/4- |
+|                                  | the-data-principle.html#one-heal |
+|                                  | th-linked-data-toolbox-ohldt>`__ |
++----------------------------------+----------------------------------+
+| `5. Dissemination                | `One Health Consensus Report     |
+| principl                         | Annotation Checklist             |
+| e <https://oh-surveillance-codex | (                                |
+| .readthedocs.io/en/latest/5-the- | OH-CRAC) <https://oh-surveillanc |
+| dissemination-principle.html>`__ | e-codex.readthedocs.io/en/latest |
+|                                  | /5-the-dissemination-principle.h |
+|                                  | tml#one-health-consensus-report- |
+|                                  | annotation-checklist-oh-crac>`__ |
+|                                  |                                  |
+|                                  | `National OHS Report             |
+|                                  | Templa                           |
+|                                  | tes <https://oh-surveillance-cod |
+|                                  | ex.readthedocs.io/en/latest/5-th |
+|                                  | e-dissemination-principle.html#n |
+|                                  | ational-ohs-report-templates>`__ |
+|                                  |                                  |
+|                                  | `Training materials and examples |
+|                                  | for OHS                          |
+|                                  | reports <https://oh-su           |
+|                                  | rveillance-codex.readthedocs.io/ |
+|                                  | en/latest/5-the-dissemination-pr |
+|                                  | inciple.html#training-materials- |
+|                                  | and-examples-for-ohs-reports>`__ |
++----------------------------------+----------------------------------+
 Download
 --------
 
