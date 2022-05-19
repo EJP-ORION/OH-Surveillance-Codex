@@ -5,6 +5,18 @@
     headtextcolor: #13699f;
 }
 
-  Sidebar 
+.wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {
+    color: #13699f;
+}
+
+ /* Sidebar */
   .wy-nav-side {
     background: #13699f;}
+
+wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {
+    background: #fcfcfc;
+}
+
+.wy-menu-vertical li.current a:hover {
+    background: #13699f;
+}
