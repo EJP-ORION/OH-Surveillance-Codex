@@ -28,7 +28,7 @@ Scope
 -----
 
 The resources provided within this principle are meant to be generically
-applicable for surveillance purposes in all OH sectors, including those
+applicable for surveillance purposes in all One Health sectors, including those
 sectors that were not directly involved in the development process e.g.
 the environmental sector. In addition they are meant to be applicable to
 all European countries, geographic areas and administrative levels.
@@ -41,30 +41,30 @@ OHEJP Glossary
 ''''''''''''''
    
    The OHEJP Glossary is a freely available online resource that
-   comprises an extensive list of OHS-related terms and definitions. The
-   interface of the glossary allows users to search and filter for
+   comprises an extensive list of One Health surveillance related terms 
+   and definitions. The interface of the glossary allows users to search and filter for
    entries in the glossary. It further provides a reference to the
    source of each definition and an Unique Resource Identifier (URI) for
    specific referencing of each glossary entry. The purpose of the OHEJP
    Glossary is primarily to highlight differences and similarities in
-   the interpretation of terms used by different OH sectors, disciplines
+   the interpretation of terms used by different One Health sectors, disciplines
    and stakeholders. It does not aim to create harmonized definitions of
    OHS-related terms. The OHEJP Glossary is developed and maintained as
    a collaborative effort of three One Health EJP H2020 projects, namely 
-   ORION, NOVA and COHESIVE, with support from OH experts of EJP stakeholders. 
-   Link: https://foodrisklabs.bfr.bund.de/ohejp-glossary/
+   ORION, NOVA and COHESIVE, with support from One Health experts of One 
+   Health EJP H2020 stakeholders. Link: https://foodrisklabs.bfr.bund.de/ohejp-glossary/
 
    Additionally, OHS-related terms and definitions from the OHEJP
    Glossary can be easily retrieved in an automatic way thanks to the
    **Glossaryfication** web service. This online infrastructure can be
-   particularly useful during the creation of OH reports for which OH
+   particularly useful during the creation of One Health reports for which OH
    glossaries are needed. The Glossaryfication web service, based on
    text processing technologies, allows automatic search within any
    user-provided text documents for terms that are contained in the
    OHEJP Glossary. The main output is a downloadable list of matching
    glossary terms as well as their corresponding definitions, sectorial
    assignments, frequencies and references, which can be added to the
-   user’s document as OH glossary.
+   user’s document as One Health glossary.
 
    
 OHS Initiatives - ideas and inspiration (OHS Inspiration catalogue)
@@ -99,7 +99,7 @@ OH Surveillance Pathway Visualization
    surveillance systems in different sectors, they need to be described
    in a similar way. The Surveillance Pathway Visualization is a new
    resource, illustrating the pathway and the flow of data, findings and
-   actors along many OH surveillance programs. The OH Surveillance
+   actors along many One Health surveillance programs. The OH Surveillance
    Pathway Visualization is not comprehensive and all steps do not apply
    to all types of surveillance in all sectors. However, it has been
    aligned with other ways of describing surveillance activities and
