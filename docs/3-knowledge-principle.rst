@@ -60,8 +60,8 @@ OH Knowledge Base – Surveillance systems
    different countries including links to the literature or websites.
    The objective was to generate a comprehensive list of surveillance
    systems in the One Health approach. It was accomplished by
-   collaboration between EJP ORION and EFSA/ECDC using similar
-   terminology in describing the surveillance systems. The interface of
+   collaboration between One Health EJP H2020 ORION project and EFSA/ECDC using 
+   similar terminology in describing the surveillance systems. The interface of
    the inventories provides users with easy and intuitive search
    functions. The first version is published at
    https://shiny.fli.de/ife-apps/EJPOrion_WP2Epi/.
@@ -144,7 +144,7 @@ RAKIP Model Repository
 Examples & Lessons learned
 --------------------------
 
-   Several ORION project partners carry out national pilot studies to
-   test methods from the Knowledge principle regarding usability within
-   a cross sectional approach. Findings from these pilot studies will be
-   reported here.
+   Several One Health EJP H2020 ORION project partners carry out national 
+   pilot studies to test methods from the Knowledge principle regarding 
+   usability within a cross sectional approach. Findings from these pilot 
+   studies will be reported here.
