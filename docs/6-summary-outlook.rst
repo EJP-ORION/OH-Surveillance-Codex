@@ -29,9 +29,9 @@ improvements into established surveillance routines is an extraordinary
 challenge. For that reason the OHS Codex/KIP acts as an “umbrella” for
 solutions supporting better surveillance data integration and
 interpretation in the future. The OHS Codex/KIP aims at raising
-awareness of the work achieved by other OHEJP projects highlighting the
-outcomes from other scientific and integrative activities that can be of
-help by the OH community such as the inventory described below.
+awareness of the work achieved by other One Health EJP H2020 projects 
+highlighting the outcomes from other scientific and integrative activities 
+that can be of help by the OH community such as the inventory described below.
 
 **One Health EJP Outcome Inventory**
 
@@ -49,7 +49,7 @@ Link: https://onehealthejp.eu/outcome-inventory/
 
 **Upcoming events**
 
-OHEJP Events: https://onehealthejp.eu/events/
+One Health EJP H2020 project events: https://onehealthejp.eu/events/
 
-OHEJP MATRIX Webinars:
+One Health EJP H2020 MATRIX project Webinar:
 https://onehealthejp.eu/wp-content/uploads/2022/03/MATRIX-Webinars-invitation_final.pdf
