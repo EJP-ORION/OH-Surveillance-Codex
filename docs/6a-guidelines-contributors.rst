@@ -2,8 +2,8 @@ Guidelines for OHS Codex/KIP contributors
 =====================================
 
 The OHS Codex/KIP is a living resource that continuously evolves adapting to
-the needs of the OH practitioners. Therefore, we welcome and encourage
-the OH community to contribute to the OHS Codex/KIP.
+the needs of the One Health practitioners. Therefore, we welcome and encourage
+the One Health community to contribute to the OHS Codex/KIP.
 
 **How to contribute to the OHS Codex/KIP**
 ------------------------------------
@@ -33,7 +33,7 @@ send us an email to ejp-orion@bfr.bund.de.
 
    Enter the new method under the principle this new method applies and
    specify how it helps to overcome the barriers addressed under this
-   specific principle with an OH perspective.
+   specific principle with an One Health perspective.
 
 **Lessons learned**
 
@@ -65,8 +65,8 @@ send us an email to ejp-orion@bfr.bund.de.
    way support a wider One Health community, propose a new principle 
    section under the OHS Codex/KIP document providing a description 
    of the purpose and scope of this principle. If possible include 
-   existing solutions or methods available to support OHS researchers, 
-   organisations or stakeholders. Proposal to extend the scope of the 
+   existing solutions or methods available to support One Health surveillance
+   researchers, organisations or stakeholders. Proposal to extend the scope of the 
    OHS Codex/KIP will only be considered if the author provides contact 
    information, so the OHS Codex/KIP team can invite that author 
    to the OHS Codex/KIP steering board discussions. 
