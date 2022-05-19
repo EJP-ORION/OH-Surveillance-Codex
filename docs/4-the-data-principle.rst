@@ -107,7 +107,7 @@ Methods
    as well as reusing terminologies already commonly used in practice,
    such as those adopted by EFSA and ECDC. Identification of concepts
    and their specialization was informed by data examples from the
-   various “OH pilots” carried out in ORION.
+   various “OH pilots” carried out in the One Health EJP H2020 ORION project.
 
    The ontology is publicly available at a globally unique and eternally
    persistent identifier: https://w3id.org/hso. Content management is
