@@ -50,9 +50,9 @@ OHEJP Glossary
    the interpretation of terms used by different OH sectors, disciplines
    and stakeholders. It does not aim to create harmonized definitions of
    OHS-related terms. The OHEJP Glossary is developed and maintained as
-   a collaborative effort of three EJP projects, namely ORION, NOVA and
-   COHESIVE, with support from OH experts of EJP stakeholders. Link:
-   https://foodrisklabs.bfr.bund.de/ohejp-glossary/
+   a collaborative effort of three One Health EJP H2020 projects, namely 
+   ORION, NOVA and COHESIVE, with support from OH experts of EJP stakeholders. 
+   Link: https://foodrisklabs.bfr.bund.de/ohejp-glossary/
 
    Additionally, OHS-related terms and definitions from the OHEJP
    Glossary can be easily retrieved in an automatic way thanks to the
@@ -111,6 +111,8 @@ OH Surveillance Pathway Visualization
 
 Examples & Lessons learned
 --------------------------
+
+Several One Health EJP H2020 ORION project partners carry out national pilot studies to test the Collaboration principles within a cross sectional approach. Findings and lessons learned on collaboration will be reported here.
 
 Positive lessons and tools that facilitated collaboration and characterised positive outcomes were: frequent meetings/workshop between partners, mutual and clear definitions and goals from the beginning of the project agreed between all partners, templates/check lists/schematic drawings, data-sharing agreements in place and that the project addressed a mutual need/interest. Other things that motivated good collaborations were piggy-backing on existing partnerships and previously established trust, when political interest or pressure existed, and if equal priority/interest/buy-in/enthusiasm from the participating organisations was present. Clear areas of responsibilities and a continuous focus on the outcomes and goals rather than on detailed process and resources, were also experienced as positive in building collaborations.
  
