@@ -140,11 +140,11 @@ html_theme_options = {
 # Modif. for css edition 
 # These paths are either relative to html_static_path
 # or fully qualified paths (eg. https://...)
-html_css_files = ['_static/custom.css',]
+html_css_files = ['custom.css',]
 
 #Use custom.css file
 def setup(app):
-    app.add_css_file('_static/custom.css')
+    app.add_css_file('custom.css')
 
     
 #New theme options
