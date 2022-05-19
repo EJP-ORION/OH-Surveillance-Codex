@@ -10,8 +10,13 @@
 }
 
  /* Sidebar */
-  .wy-nav-side {
+  .wy-side-scroll {
     background: #13699f;}
+
+.wy-menu-vertical a:hover {
+    background-color: #4e4a4a;
+    cursor: pointer;
+}
 
 wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {
     background: #fcfcfc;
