@@ -131,7 +131,7 @@ html_theme = 'default'
 html_static_path = ['_static']
 
 #Add the logo 
-html_logo = "_static/orion_matrix_logos_St.png"
+html_logo = "_static/orion_matrix_logos_text.png"
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
