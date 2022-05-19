@@ -130,6 +130,13 @@ html_theme = 'default'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+#Add the logo 
+html_logo = "ohejp_logo.png"
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+}
+
 # Modif. for css edition 
 # These paths are either relative to html_static_path
 # or fully qualified paths (eg. https://...)
@@ -138,6 +145,10 @@ html_css_files = ['css/custom.css',]
 #Use custom.css file
 def setup(app):
     app.add_css_file('custom.css')
+
+    
+
+
 
 #New theme options
 html_theme_options = {
