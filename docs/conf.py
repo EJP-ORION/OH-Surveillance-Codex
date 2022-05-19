@@ -131,7 +131,7 @@ html_theme = 'default'
 html_static_path = ['_static']
 
 #Add the logo 
-html_logo = "ohejp_logo.png"
+html_logo = "_static/ohejp_logo.png"
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
@@ -147,9 +147,6 @@ def setup(app):
     app.add_css_file('custom.css')
 
     
-
-
-
 #New theme options
 html_theme_options = {
     'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
