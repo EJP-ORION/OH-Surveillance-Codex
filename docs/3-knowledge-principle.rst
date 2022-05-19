@@ -9,13 +9,13 @@ Purpose
 
 The Knowledge principle defines that better surveillance planning, data
 integration and interpretation needs efficient and continuous knowledge
-exchange and joined knowledge evolution between all OH parties.
+exchange and joined knowledge evolution between all One Health parties.
 
 Therefore, the purpose of this principle is to provide surveillance
 professionals and stakeholders with guidance on available knowledge
-resources that may be used to foster an OH approach within their area of
+resources that may be used to foster an One Health approach within their area of
 work, or to increase the value of their sector-specific surveillance
-reports for future OH analysis.
+reports for future One Health analysis.
 
 
 Scope
@@ -123,7 +123,7 @@ RAKIP Model Repository
    (RAKIP) partners BfR, ANSES and DTU Food developed the RAKIP Model
    Repository with the aim of supporting modellers, scientists, risk
    assessors and risk managers in their efforts to share and re-use
-   mathematical models as well as data analysis procedures across OH
+   mathematical models as well as data analysis procedures across One Health
    sectors. The RAKIP Model Repository is a curated web-based database
    currently populated with executable mathematical models relevant for
    food safety. These models are provided in the 'Food Safety Knowledge
