@@ -51,5 +51,5 @@ Link: https://onehealthejp.eu/outcome-inventory/
 
 One Health EJP H2020 project events: https://onehealthejp.eu/events/
 
-One Health EJP H2020 MATRIX project Webinar:
+One Health EJP H2020 MATRIX project webinars:
 https://onehealthejp.eu/wp-content/uploads/2022/03/MATRIX-Webinars-invitation_final.pdf
