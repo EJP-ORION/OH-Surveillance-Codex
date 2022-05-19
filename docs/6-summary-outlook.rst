@@ -13,9 +13,9 @@ integration and interpretation can only be achieved if responsible
 institutions perform practical steps in at least one of the two action
 areas:
 
-1. Improve existing sector specific surveillance data reporting such that data and reports can be better used in the context of OH in the future
+1. Improve existing sector specific surveillance data reporting such that data and reports can be better used in the context of One Health in the future
 
-2. Plan, execute or improve joint surveillance efforts that consider the OH needs right from the beginning.
+2. Plan, execute or improve joint surveillance efforts that consider the One Health needs right from the beginning.
 
 To support such practical steps the OHS Codex/KIP has been designed in such
 a way, that it can act as a resource itself, i.e. it provides a
@@ -31,7 +31,7 @@ solutions supporting better surveillance data integration and
 interpretation in the future. The OHS Codex/KIP aims at raising
 awareness of the work achieved by other One Health EJP H2020 projects 
 highlighting the outcomes from other scientific and integrative activities 
-that can be of help by the OH community such as the inventory described below.
+that can be of help by the One Health community such as the inventory described below.
 
 **One Health EJP Outcome Inventory**
 
