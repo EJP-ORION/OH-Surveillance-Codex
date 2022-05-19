@@ -59,7 +59,7 @@ One Health Consensus Report Annotation Checklist (OH-CRAC)
     :figclass: align-center
    
     Fig. 5: Schematic drawing of OH-CRAC that is proposed to map and structure
-    metadata in OH surveillance reports. Orange arrows indicate the mapping
+    metadata in One Health surveillance reports. Orange arrows indicate the mapping
     of metadata from federal/national systems (top) and
     European/international stakeholders (bottom) systems to the proposed
     OH-CRAC.
@@ -74,7 +74,7 @@ National OHS Report Templates
    providers’ perspective rather than focussing on the receiver needs
    and may not interpret the data from a One Health perspective. To
    support One Health reporting, examples or templates to report
-   different types of hazards with a OH focus have been developed. The
+   different types of hazards with a One Health focus have been developed. The
    templates demonstrate how to report e.g. AMR in food borne zoonoses
    throughout the food chain and focusing on the consequences for humans
    and animals or how to report zoonotic trends, whilst enhancing the
@@ -191,8 +191,8 @@ Examples & Lessons learned
    bodies/institutions might exist the different internal policies can
    make the dissemination of data complicated and slow.
 
-   The Belgian and Danish pilots conducted during the EJP ORION project
-   considered as important the dissemination of results, not only at
+   The Belgian and Danish pilots conducted during the One Health EJP H2020 
+   ORION project considered as important the dissemination of results, not only at
    national level but also to other countries (pilot reports provided as
    annexes under the deliverables JIP1-2.7 and JIP1-2.9,
    respectively) [21]_, [22]_. In general, it was highlighted that the
@@ -208,6 +208,8 @@ Examples & Lessons learned
    the newly designed surveillance reports were very well accepted by
    policy users. Also the application of the new OH-CRAC checklist was
    tested extensively and received positive feedback.
+   
+  .. rubric:: References
 
 .. [21]
    Gethmann J, Selhorst T, Dups-Bergmann J, Ellis-Iversen J, Friesema I,
