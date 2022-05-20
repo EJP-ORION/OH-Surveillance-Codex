@@ -44,7 +44,7 @@ The One Health European Joint Programme (OHEJP)
 -----------------------------------------------
 
 In 2018, the `One Health European Joint Programme
-(EJP) <https://onehealthejp.eu/>`__ was established with the ambition to
+(OHEJP) <https://onehealthejp.eu/>`__ was established with the ambition to
 support the practical implementation of the One Health framework in
 Europe. The main focus of the new OHEJP is to reinforce collaboration
 between institutes by enhancing transdisciplinary cooperation and
