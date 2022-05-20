@@ -40,29 +40,45 @@ European legislation. Moreover, no generic strategy for surveillance
 data reporting is currently available that could be adopted by all OHS
 related scientific disciplines including e.g. environmental science.
 
-The One Health EJP H2020 Joint Integrative Project (JIP) “One health 
-suRveillance Initiative on harmOnization of data collection and 
-interpretatioN” (ORION) aims at establishing and strengthening 
-inter-institutional collaboration and transdisciplinary knowledge 
-transfer in the area of One Health Surveillance (OHS) data integration 
-and interpretation. Detailed requirement analyses were performed within 
-ORION to identify current best practices, resources and needs within 
-the OHS community [11]_. Results from the requirement analyses confirmed 
-that cross-sectoral ande multi-disciplinary communication, collaboration 
-and knowledge exchange are still significant challenges for the European 
-OHS community. In addition, the results reinforced the need for better 
-harmonization of reports on OHS data, which could ultimately lead to 
-improved mutualnunderstanding and use of sector-specific data in 
-future One Health analysis.
+The One Health European Joint Programme (OHEJP)
+-----------------------------------------------
 
-Another One Health EJP H2020 JIP currently in progress is called "MATRIX: Connecting
-dimensions in One-Health surveillance", which aims to strengthen OHS
-practices and synergies across the entire surveillance pipeline between
-the public health (PH), animal health (AH) and food safety (FS) sectors
-within each country (expected end in December 2022). MATRIX builds upon
-the foundation laid out by ORION and other projects, while focusing on
-cross-sectorial hazards (i.e. Salmonella, Campylobacter, Listeria, and
-emerging threats, including antimicrobial resistance).
+In 2018, the `One Health European Joint Programme
+(EJP) <https://onehealthejp.eu/>`__ was established with the ambition to
+support the practical implementation of the One Health framework in
+Europe. The main focus of the new OHEJP is to reinforce collaboration
+between institutes by enhancing transdisciplinary cooperation and
+integration of activities by means of dedicated Joint Research Projects,
+Joint Integrative Project and through education and training in the
+fields of Foodborne Zoonoses (FBZ), Antimicrobial Resistance (AMR) and
+Emerging Threats (ET).
+
+The One Health EJP Joint Integrative Project (JIP) “One health
+suRveillance Initiative on harmOnization of data collection and
+interpretatioN” (`ORION <https://onehealthejp.eu/jip-orion/>`__) aims at
+establishing and strengthening inter-institutional collaboration and
+transdisciplinary knowledge transfer in the area of One Health
+Surveillance (OHS) data integration and interpretation. Detailed
+requirement analyses were performed within ORION to identify current
+best practices, resources and needs within the OHS community [11]_.
+Results from the requirement analyses confirmed that cross-sectoral and
+multi-disciplinary communication, collaboration and knowledge exchange
+are still significant challenges for the European OHS community. In
+addition, the results reinforced the need for better harmonization of
+reports on OHS data, which could ultimately lead to improved mutual
+understanding and use of sector-specific data in future One Health
+analysis.
+
+Another One Health EJP H2020 JIP currently in progress is called
+"`MATRIX <https://onehealthejp.eu/jip-matrix/>`__: Connecting dimensions
+in One-Health surveillance", which aims to strengthen OHS practices and
+synergies across the entire surveillance pipeline between the public
+health (PH), animal health (AH) and food safety (FS) sectors within each
+country (expected end in December 2022). MATRIX builds upon the
+foundation laid out by ORION and other One Health EJP H2020 projects,
+while focusing on cross-sectorial hazards (i.e. Salmonella,
+Campylobacter, Listeria, and emerging threats, including antimicrobial
+resistance).
 
 This OHS Codex/KIP therefore aims at establishing a high-level framework
 that supports collaboration, mutual understanding, knowledge exchange,
