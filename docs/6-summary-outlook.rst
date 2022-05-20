@@ -34,6 +34,7 @@ highlighting the outcomes from other scientific and integrative activities
 that can be of help by the One Health community such as the inventory described below.
 
 **One Health EJP Outcome Inventory**
+-----------------------------------
 
 The `One Health EJP Outcome
 Inventory <https://onehealthejp.eu/outcome-inventory/>`__ is a public
@@ -48,6 +49,7 @@ and EU and international agencies"
 Link: https://onehealthejp.eu/outcome-inventory/
 
 **Upcoming events**
+--------------------
 
 One Health EJP H2020 project events: https://onehealthejp.eu/events/
 
