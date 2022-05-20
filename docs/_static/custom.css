@@ -1,13 +1,13 @@
 .wy-side-nav-search, .wy-nav-top {
    /* background: #13699f; blue OHEJP color*/
     background: #ffffff;
-   /*  color: #13699f;
-    headtextcolor: #13699f;*/
+    color: #13699f;
+    /*headtextcolor: #13699f;*/
 }
 
-.wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {
+/*.wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {
     color: #ffffff;
-}
+}*/
 
  /* Sidebar */
   .wy-side-scroll {
