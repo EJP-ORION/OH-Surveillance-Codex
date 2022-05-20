@@ -5,9 +5,9 @@
     /*headtextcolor: #13699f;*/
 }
 
-/*.wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {
-    color: #ffffff;
-}*/
+.wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {
+    color: #13699f;
+}
 
  /* Sidebar */
   .wy-side-scroll {
@@ -24,4 +24,13 @@ wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {
 
 .wy-menu-vertical li.current a:hover {
     background: #7196ad;
+}
+
+h1 {
+  color: #13699f;
+}
+
+ul li::before {
+  color: #f9a16c;
+  font-weight: bold;
 }
