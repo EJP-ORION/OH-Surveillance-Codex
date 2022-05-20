@@ -6,7 +6,7 @@
 }
 
 .wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {
-    color: #13699f;
+    color: #ffffff;
 }
 
  /* Sidebar */
@@ -23,5 +23,5 @@ wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {
 }
 
 .wy-menu-vertical li.current a:hover {
-    background: #13699f;
+    background: #7196ad;
 }
