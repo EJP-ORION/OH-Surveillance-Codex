@@ -1,6 +1,6 @@
-=========================================================================================
-2. The Collaboration principle: Supporting OHS collaboration & cross-sectoral communication
-=========================================================================================
+===============================================================================================================
+2. The Collaboration principle: Supporting One Health Surveillance collaboration & cross-sectoral communication
+===============================================================================================================
 
 .. _purpose-1:
 
@@ -112,7 +112,7 @@ One Health Surveillance Pathway Visualization
 Examples & Lessons learned
 --------------------------
 
-Several One Health EJP H2020 ORION project partners carry out national pilot studies to test the Collaboration principles within a cross sectional approach. Findings and lessons learned on collaboration will be reported here.
+Several One Health EJP H2020 ORION project partners carry out national pilot studies to test the Collaboration principle within a cross sectional approach. Findings and lessons learned on collaboration will be reported here.
 
 Positive lessons and tools that facilitated collaboration and characterised positive outcomes were: frequent meetings/workshop between partners, mutual and clear definitions and goals from the beginning of the project agreed between all partners, templates/check lists/schematic drawings, data-sharing agreements in place and that the project addressed a mutual need/interest. Other things that motivated good collaborations were piggy-backing on existing partnerships and previously established trust, when political interest or pressure existed, and if equal priority/interest/buy-in/enthusiasm from the participating organisations was present. Clear areas of responsibilities and a continuous focus on the outcomes and goals rather than on detailed process and resources, were also experienced as positive in building collaborations.
  
