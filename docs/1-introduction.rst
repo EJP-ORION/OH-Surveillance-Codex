@@ -76,7 +76,7 @@ synergies across the entire surveillance pipeline between the public
 health (PH), animal health (AH) and food safety (FS) sectors within each
 country (expected end in December 2022). MATRIX builds upon the
 foundation laid out by ORION and other One Health EJP H2020 projects,
-while focusing on cross-sectorial hazards (i.e. Salmonella,
+while focusing on cross-sectoral hazards (i.e. Salmonella,
 Campylobacter, Listeria, and emerging threats, including antimicrobial
 resistance).
 
@@ -97,9 +97,9 @@ as well as OH-driven data analysis and interpretation by the
 different OHS sectors. With that, the OHS Codex/KIP supports the ambitions
 outlined in chapter 3, 4, and 5 of the FAO, OIE and WHO
 document ‘Taking a Multisectoral, One Health Approach: A Tripartite
-Guide to Addressing Zoonotic Diseases in Countries” [13]_ (Tripartite
+Guide to Addressing Zoonotic Diseases in Countries” [13]_ (Tripartite Zoonoses
 Guide) by proposing specific resources that support putting a true One
-Health approach (as described in the Tripartite Guide) into practice in
+Health approach (as described in the Tripartite Zoonoses Guide) into practice in
 Europe.
 
 
@@ -110,10 +110,10 @@ Europe.
     :alt: alternate text
     :figclass: align-center
 
-    Fig. 1: Connection between the Tripartite Guide and the five principles
-    of the OHS Codex/KIP. The OHS Codex/KIP principles and their dimensions
-    are indicated by coloured arrows. The icons correspond to the guiding
-    icons from the Tripartite Guide.
+    Fig. 1: Connection between the Tripartite Zoonoses Guide (FAO, OIE and WHO) and 
+    the five principles of the OHS Codex/KIP. The OHS Codex/KIP principles and their 
+    dimensions are indicated by coloured arrows. The icons correspond to the guiding
+    icons from the Tripartite Zoonoses Guide.
 
 
 
@@ -153,7 +153,7 @@ interpretation. Currently, it is structured according to five core
 principles that were jointly defined by the OHS Codex/KIP curation board as
 critical for achieving this objective. The OHS Codex/KIP framework has the
 potential to be expanded by more principles in the future in case the
-scope / objective is broadened. In this case the OHS Codex could become
+scope / objective is broadened. In this case the OHS Codex/KIP could become
 a comprehensive hub of tools for OHS improvement.
 
 .. figure:: ../assets/img/20220314_OHS_CODEX_principles.png
@@ -165,7 +165,7 @@ a comprehensive hub of tools for OHS improvement.
 
     Fig. 2: The overview of the OHS Codex/KIP framework structured into five
     principles. The white boxes under each principle show examples of some
-    of the solutions, tools and resources included into the OHS Codex/ KIP.
+    of the solutions, tools and resources included into the OHS Codex/KIP.
     The “lessons learned” boxes describe practical One Health activities carried
     out, e.g.during the OH European Joint Programme (OHEJP) projects.
 
