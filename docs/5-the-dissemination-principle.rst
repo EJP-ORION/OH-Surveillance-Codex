@@ -1,22 +1,22 @@
-==========================================================================
-5. The Dissemination principle: Supporting external communication of OHS outcomes
-==========================================================================
+=====================================================================================================
+5. The Dissemination principle: Supporting external communication of One Health Surveillance outcomes
+=====================================================================================================
 
 
 Purpose
 -------
 
 The dissemination principle defines that better surveillance data
-integration and interpretation needs improved cross-sectorial OHS report
-integration and harmonization. The resources provided within this
-principle are meant to support the cross-sectorial harmonized
+integration and interpretation needs improved cross-sector One Health Surveillance
+report integration and harmonization. The resources provided within this
+principle are meant to support the cross-sector harmonized
 provisioning of metadata in OHS reports and e.g. to provide a foundation
 for advice to risk managers. Best practice examples illustrate how the
 reporting of surveillance outputs using new checklists and templates
 relying on cross-sectoral analysis of surveillance outputs, will improve
 the value for all stakeholders. It also demonstrates that such
-activities support the cross-sectorial understanding of contextual
-information in future OHS reports.
+activities support the cross-sector understanding of contextual
+information in future OH surveillance reports.
 
 
 Scope
@@ -42,7 +42,7 @@ One Health Consensus Report Annotation Checklist (OH-CRAC)
    Annotation Checklist” (OH-CRAC)**. The adoption of OH-CRAC will allow all
    existing OHS metadata to be mapped to one concurrent metadata schema,
    instead of cross-mapping metadata between several sectoral and
-   institutional metadata systems as illustrated in Figure 3. The
+   institutional metadata systems as illustrated in Figure 5. The
    implementation and comprehension of the OH-CRAC will thereby cause
    minimal efforts for all involved parties. OH-CRAC is also available
    as an interactive online tool that allows the provisioning of
@@ -66,7 +66,7 @@ One Health Consensus Report Annotation Checklist (OH-CRAC)
 
 National OHS Report Templates
 '''''''''''''''''''''''''''''
-   Surveillance of zoonoses and AMR is often carried out in multiple
+   Surveillance of zoonoses and antimicrobial resistance (AMR) is often carried out in multiple
    animal species, foods and/or people and reported separately.
    Sometimes, outputs from different sectors are reported in the same
    report or in the same chapters, but usually every author/sector
@@ -75,7 +75,7 @@ National OHS Report Templates
    and may not interpret the data from a One Health perspective. To
    support One Health reporting, examples or templates to report
    different types of hazards with a One Health focus have been developed. The
-   templates demonstrate how to report e.g. AMR in food borne zoonoses
+   templates demonstrate how to report e.g. AMR in foodborne zoonoses
    throughout the food chain and focusing on the consequences for humans
    and animals or how to report zoonotic trends, whilst enhancing the
    One Health focus.
