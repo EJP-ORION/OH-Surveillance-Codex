@@ -1,6 +1,6 @@
-==========================================================================
-1. The Planning and Management principle: Supporting the whole OHS process
-==========================================================================
+==============================================================================================
+1. The Planning and Management principle: Supporting the whole One Health Surveillance process
+==============================================================================================
 
 
 Purpose
@@ -10,7 +10,7 @@ The Planning and Management principle defines that an One Health oriented
 surveillance organization and management can lead to a more effective
 OH data generation and decision making. The resources provided under
 this principle are meant to support and strengthen the planning and 
-management tasks along the whole `surveillance process <https://oh-surveillance-codex.readthedocs.io/en/latest/2-the-collaboration-principle.html#oh-surveillance-pathway-visualization>`__. This includes the design, development, establishment, implementation and optimization of surveillance systems with a cross-sector One Health approach
+management tasks along the whole `surveillance process <https://oh-surveillance-codex.readthedocs.io/en/latest/2-the-collaboration-principle.html#oh-surveillance-pathway-visualization>`__. This includes the design, development, establishment, implementation and optimization of surveillance systems with a cross-sector One Health approach.
 
 
 Scope
