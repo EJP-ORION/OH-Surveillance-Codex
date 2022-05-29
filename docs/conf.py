@@ -134,15 +134,21 @@ html_static_path = ['_static']
 
 #Add the logo 
 html_logo = "_static/ohejp_logo.png"
-html_theme_options = {
-    'logo_only': True,
-    'display_version': False,
-}
+#html_theme_options = {
+   # 'logo_only': True,
+   # 'display_version': False,
+#}
 
 # Modif. for css edition 
 # These paths are either relative to html_static_path
 # or fully qualified paths (eg. https://...)
 html_css_files = ['custom.css',]
+
+
+# Javascrip file
+html_js_files = [
+    'custom.js'
+]
 
 #Use custom.css file
 def setup(app):
@@ -153,8 +159,8 @@ def setup(app):
 html_theme_options = {
     'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
     'analytics_anonymize_ip': False,
-    'logo_only': False,
-    'display_version': True,
+    'logo_only': True,
+    'display_version': False,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
     'vcs_pageview_mode': '',
