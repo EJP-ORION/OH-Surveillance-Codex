@@ -1,6 +1,6 @@
-=========================================================
-3. The Knowledge principle: Improving the OHS knowledge base
-=========================================================
+=================================================================================
+3. The Knowledge principle: Improving the One Health Surveillance knowledge base
+=================================================================================
 
 
 
@@ -126,8 +126,9 @@ RAKIP Model Repository
    mathematical models as well as data analysis procedures across One Health
    sectors. The RAKIP Model Repository is a curated web-based database
    currently populated with executable mathematical models relevant for
-   food safety. These models are provided in the 'Food Safety Knowledge
-   eXchange' (FSKX) format, an open exchange format that can include data,
+   food safety. These models are provided in the `Food Safety Knowledge
+   eXchange (FSKX) format <https://oh-surveillance-codex.readthedocs.io/en/latest/4-the-data-principle.html#fskx-format-guidance-document>`__, 
+   an open exchange format that can include data,
    model scripts, visualization scripts, simulation settings and harmonized
    metadata on the model / data. The RAKIP model repository provides a
    user-friendly interface to access, filter and download the FSKX model
