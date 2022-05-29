@@ -1,5 +1,5 @@
 =========================================================================================
-2. The Collaboration principle: Supporting OHS collaboration & cross-sectorial communication
+2. The Collaboration principle: Supporting OHS collaboration & cross-sectoral communication
 =========================================================================================
 
 .. _purpose-1:
@@ -62,13 +62,13 @@ OHEJP Glossary
    text processing technologies, allows automatic search within any
    user-provided text documents for terms that are contained in the
    OHEJP Glossary. The main output is a downloadable list of matching
-   glossary terms as well as their corresponding definitions, sectorial
+   glossary terms as well as their corresponding definitions, sectoral
    assignments, frequencies and references, which can be added to the
-   user’s document as One Health glossary.
+   user’s document as an One Health glossary.
 
    
-OHS Initiatives - ideas and inspiration (OHS Inspiration catalogue)
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+One Health Surveillance Initiatives - ideas and inspiration (OHS Inspiration catalogue)
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
    Changes and new initiatives are often hampered by the lack of vision
    to imagine that new ways can work or the inability to conceptualise a
@@ -78,35 +78,35 @@ OHS Initiatives - ideas and inspiration (OHS Inspiration catalogue)
    communication and strategic changes in OHS in many steps of the
    surveillance pathway. The Inspiration catalogue provides 15 examples
    of successfully implemented and functioning One Health Surveillance
-   initiatives from all over the EU and aims to inspire new approaches
-   in OHS in other MS.
+   initiatives from all over the Europe Union and aims to inspire new approaches
+   in OHS in other European Member States (MS).
 
    Link:   https://www.food.dtu.dk/english/-/media/Institutter/Foedevareinstituttet/Publikationer/Pub-2019/Rapport-One-Health-Integration-in-Surveillance.ashx?la=da   
 
 
-OH Surveillance Pathway Visualization
-'''''''''''''''''''''''''''''''''''''
+One Health Surveillance Pathway Visualization
+'''''''''''''''''''''''''''''''''''''''''''''
 
    Surveillance is a complex process with various activities and fluent
    “borders”. Gaining a high level view on surveillance activities is
    sometimes challenging, as many actors focus on their own small part
    in the surveillance pathway and subsequently anchor discussions on
    these specific parts. This is even more complicated if it comes to
-   inter-sectorial or One Health surveillance. To facilitate efficient
+   inter-sectoral or One Health surveillance. To facilitate efficient
    communication and discussions on surveillance and to ensure mutual
    understanding of the extent of systems and programmes, supportive
    tools or illustrations are needed. To be able to compare e.g.
    surveillance systems in different sectors, they need to be described
    in a similar way. The Surveillance Pathway Visualization is a new
    resource, illustrating the pathway and the flow of data, findings and
-   actors along many One Health surveillance programs. The OH Surveillance
+   actors along many One Health surveillance programs. The One Health Surveillance
    Pathway Visualization is not comprehensive and all steps do not apply
    to all types of surveillance in all sectors. However, it has been
    aligned with other ways of describing surveillance activities and
    does provide a proper tool to facilitate cross-sector communication.
    
    .. figure:: ../assets/img/SurveillancePathway.png
-   Figure 4. The "Surveillance Pathway Visualization" illustrates the different process steps carried out in animal health, public health and food safety surveillance. The red arrows indicate where surveillance activities could be connected between two or all three sectors to support the OH concept. 
+   Figure 4. The "One Health Surveillance Pathway Visualization" illustrates the different process steps carried out in animal health, public health and food safety surveillance. The red arrows indicate where surveillance activities could be connected between two or all three sectors to support the One Health concept. 
 
 
 Examples & Lessons learned
@@ -118,7 +118,7 @@ Positive lessons and tools that facilitated collaboration and characterised posi
  
 Some pilot projects saw collaboration grow after having ‘planted the seed’ a while ago. However, this approach is not well-suited for a project with a specific end time. In general, it was recognised that One Health Surveillance Initiatives (OHSI) take time to develop and establish, which does not always fit well with academic project deadlines. Some pilot projects experienced that success in starting up an OHSI could be very person-dependent and convincing individuals to integrate their expert topics with others could be a barrier.
  
-Lack of sufficient leadership support both internally in the organisations and externally was highlighted as problem. This is a known barrier for additional OH integration between policy areas and portfolios [15]_. For some of the OHSI-developing pilot projects, it could be difficult to  get buy-in from or within organisations without proof-of-principle. Interesting, in contrast our tool-developing pilot projects found that, despite offering and demonstrating an actual tool, it was difficult to obtain adoption in existing OHSI.
+Lack of sufficient leadership support both internally in the organisations and externally was highlighted as problem. This is a known barrier for additional OH integration between policy areas and portfolios [15]_. For some of the OHSI-developing pilot projects, it could be difficult to get buy-in from or within organisations without proof-of-principle. Interesting, in contrast our tool-developing pilot projects found that, despite offering and demonstrating an actual tool, it was difficult to obtain adoption in existing OHSI.
 
 .. rubric:: References
 
