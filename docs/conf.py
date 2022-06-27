@@ -133,7 +133,7 @@ html_theme = 'default'
 html_static_path = ['_static']
 
 #Add the logo 
-html_logo = "_static/ohejp_logo.png"
+html_logo = "_static/codex_kip_logo.png"
 #html_theme_options = {
    # 'logo_only': True,
    # 'display_version': False,
