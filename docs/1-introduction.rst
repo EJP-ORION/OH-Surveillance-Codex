@@ -104,7 +104,7 @@ Europe.
 
 
 
-.. figure:: ../assets/img/20220314_OHS_CODEX_TripartiteGuide.png
+.. figure:: ../assets/img/20220627_FigureCodex_Tripartite.PNG 
     :width: 6.28229in
     :align: center
     :alt: alternate text
@@ -121,10 +121,12 @@ Europe.
 Target community, main stakeholders and organizations
 -----------------------------------------------------
 
-According to the understanding of the authors elements of the OHS Codex/KIP
-will be useful for
-
-organizations or researchers that are involved in
+The primary target group for the OHS Codex/KIP are the official organisations and 
+authorities involved in One Health. Other stakeholders, delivering data or in other 
+ways are involved in One Health topics will have interest in knowing the system, 
+the tools available and the lessons learned. According to the understanding of the 
+authors elements of the OHS Codex/KIP will be useful for organizations or researchers 
+that are involved in
 
 -  One Health surveillance implementation
 
@@ -156,7 +158,7 @@ potential to be expanded by more principles in the future in case the
 scope / objective is broadened. In this case the OHS Codex/KIP could become
 a comprehensive hub of tools for OHS improvement.
 
-.. figure:: ../assets/img/20220314_OHS_CODEX_principles.png
+.. figure:: ../assets/img/20220627_FigureCodexPrinciples.PNG 
     :width: 6.27083in
     :align: center
     :height:  4.69444in
