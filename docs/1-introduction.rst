@@ -104,7 +104,7 @@ Europe.
 
 
 
-.. figure:: ../assets/img/20220627_FigureCodex_Tripartite.PNG 
+.. figure:: ../assets/img/20220627_FigureCodex_Tripartite.png
     :width: 6.28229in
     :align: center
     :alt: alternate text
@@ -158,7 +158,7 @@ potential to be expanded by more principles in the future in case the
 scope / objective is broadened. In this case the OHS Codex/KIP could become
 a comprehensive hub of tools for OHS improvement.
 
-.. figure:: ../assets/img/20220627_FigureCodexPrinciples.PNG 
+.. figure:: ../assets/img/20220627_FigureCodexPrinciples.png
     :width: 6.27083in
     :align: center
     :height:  4.69444in
