@@ -35,7 +35,7 @@ wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {
   color: #13699f;
 }
 
-.wy-nav-content p {
+.wy-nav-content p, .wy-nav-content li{
    color: #777777;
 }
 
