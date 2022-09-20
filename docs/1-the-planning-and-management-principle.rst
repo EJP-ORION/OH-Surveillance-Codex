@@ -42,7 +42,7 @@ FoodChain-Lab tracing software (FCL)
   of the SISOT tool box of OIE, WHO and FAO.
 
   FCL Desktop and FCL Web are joint outputs of several projects (e.g.
-  SiLeBAT, EFSA-BfR Framework Partnership Agreements, EJP COHESIVE) and
+  SiLeBAT, EFSA-BfR Framework Partnership Agreements, One Health EJP COHESIVE) and
   will contribute to future projects on traceability together with EFSA
   e.g. by integrating FCL Web into a European framework of tracing tools
   and by developing a universal tracing data exchange format.
