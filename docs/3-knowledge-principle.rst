@@ -140,6 +140,20 @@ RAKIP Model Repository
    Link to the description of the resource:
    https://foodrisklabs.bfr.bund.de/rakip-web-portal/
 
+Manual for One Health Surveillance Dashboards
+'''''''''''''''''''''''''''''''''''''''''''''
+
+  This is an online dashboard inventory and practical manual to facilitate the design and implementation of
+  One Health Surveillance dashboards using open source tools. More information is available at the
+  Dashboard Information Centre here.
+  The Dashboard Information Centre is a “living document” that contains an inventory of planned, ongoing and
+  finished dashboard projects, a practical manual and a best practice guide to the development of One Health
+  Surveillance dashboards. It covers the following topics: i) information context and end-user considerations; ii)
+  technical and legal barriers associated with cross sector data sharing; iii) the pitfalls and biases of coanalysing
+  One Health data; iv) the selection of the most suitable technical implementation. It is meant to be
+  used as a “companion” when planning or developing a dashboard.
+  
+  Status of implementation: the Dashboard Information Centre is available `here. <https://sva-se.github.io/MATRIX-dashboards/>`_ 
 
 
 Examples & Lessons learned
