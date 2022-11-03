@@ -108,6 +108,22 @@ One Health Surveillance Pathway Visualization
    .. figure:: ../assets/img/SurveillancePathway.png
    Figure 4. The "One Health Surveillance Pathway Visualization" illustrates the different process steps carried out in animal health, public health and food safety surveillance. The red arrows indicate where surveillance activities could be connected between two or all three sectors to support the One Health concept. 
 
+Interactive guide to developing multi-sectoral surveillance systems
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+    This interactive tool is a guide to facilitate the development of multi-sectoral (One Health) surveillance
+    frameworks from existing animal health, public health and food safety surveillance systems. The guide
+    provides a step-wise approach to developing such multi-sectoral surveillance frameworks, drawing upon both
+    theoretical learnings and practical expertise/experiences.
+    The guide outlines 7 steps towards integrating sectoral surveillance systems: i) establish a working group; ii)
+    identify and engage stakeholders; iii) define the objectives / purpose of the integrated system; iv) map the available data; 
+    v) determine the point in the process where data could be shared; vi) design and implement  the system; vii) evaluate the system.
+    This work builds upon a report describing the commonalities and differences between operational frameworks in animal health, public health and food safety. 
+  
+    The report is available `here. <https://zenodo.org/record/5062548#.YkHAii3P1PZ>`_ 
+  
+    Status of implementation: the tool is currently under development and is expected to be available late 2022.
+
 
 Examples & Lessons learned
 --------------------------
