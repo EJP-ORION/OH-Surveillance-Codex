@@ -103,8 +103,7 @@ Surveillance Evaluation Framework (SurF)
 
   Link:
   https://www.mpi.govt.nz/dmsdocument/18091-Surveillance-Evaluation-Framework-SurF-Main-Document
-  
-  .. rubric:: References
+   .. rubric:: References
   
 .. [13]
     Muellner, P, Watts, J, Bingham, P, et al. SurF: an innovative framework in biosecurity 
@@ -114,4 +113,75 @@ Surveillance Evaluation Framework (SurF)
 .. [14]
     Drewe, J.A., Hoinville, L.J., Cook, A.J.C., Floyd, T., Gunn, G. and Stärk, K.D.C. (2015), 
     SERVAL: A New Framework for the Evaluation of Animal Health Surveillance. Transbound Emerg 
-    Dis, 62: 33-45. https://doi.org/10.1111/tbed.12063
+    Dis, 62: 33-45. https://doi.org/10.1111/tbed.12063 
+  
+
+OH-EpiCap tool
+''''''''''''''
+
+  This is an interactive, stand-alone tool to evaluate the capacities and capabilities for the One Health
+  Surveillance of a specific sector and/or pathogen of choice. Additionally, the tool allows the benchmarking of
+  surveillance capacities and capabilities for comparison i) with other countries for the same hazard; ii)
+  between specific hazards within one country.
+  The tool addresses the need for evaluating strengths and weaknesses of multi-sectoral surveillance systems
+  and identifying opportunities for further integration. The tool evaluates 3 dimensions:
+  Organization of One Health (formalization, coverage / transdisciplinary, resources, evaluation and resilience)
+  One Health in operational activities (data collection / methods sharing; data sharing; data analysis and interpretation; communication)
+  Impact of One Health (technical outputs, collaborative added values, immediate and intermediate outcomes, ultimate outcomes)
+  
+  More information about the OH-EpiCap tool is available `here. <https://onehealthejp.eu/wp-content/uploads/2022/06/OHEJP_MATRIX_OH-EpiCap_flyer_2022_06.pdf>`_ 
+  
+  Status of implementation: the tool is currently being piloted with a beta version of the online tool disseminated mid-2022.
+
+
+Manual for One Health Surveillance Dashboards
+'''''''''''''''''''''''''''''''''''''''''''''
+
+  This is an online dashboard inventory and practical manual to facilitate the design and implementation of
+  One Health Surveillance dashboards using open source tools. More information is available at the
+  Dashboard Information Centre here.
+  The Dashboard Information Centre is a “living document” that contains an inventory of planned, ongoing and
+  finished dashboard projects, a practical manual and a best practice guide to the development of One Health
+  Surveillance dashboards. It covers the following topics: i) information context and end-user considerations; ii)
+  technical and legal barriers associated with cross sector data sharing; iii) the pitfalls and biases of coanalysing
+  One Health data; iv) the selection of the most suitable technical implementation. It is meant to be
+  used as a “companion” when planning or developing a dashboard.
+  
+  Status of implementation: the Dashboard Information Centre is available `here. <https://sva-se.github.io/MATRIX-dashboards/>`_ 
+
+Roadmap to develop national One Health Surveillance
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
+  This is a guideline that countries can use to develop One Health Surveillance according to their needs and resources. Countries can use it both to build a new One Health Surveillance system or to advance an existing one.
+  The roadmap expands the work of the OHEJP COHESIVE project. 
+  
+  More information about the OHEJP COHESIVE project and roadmap is available `here. <https://www.ohras.eu/page/home>`_ 
+  The roadmap provides step by step instructions on how to work through its different parts. The roadmap also addresses barriers and facilitators between One Health Surveillance sectors, 
+  based on the findings of a requirement analysis that is available `here. <https://zenodo.org/record/6504418#.Yo-P3KhByUl>`_ 
+  
+  Status of implementation: the roadmap is currently under development and is expected to be available late 2022.  
+
+
+Best practices to operationalize cross-sectorial collaborations
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+  This solution provides practices to operationalize cross-sectorial collaborations with a focus on data collection, data sharing, data analysis, and the dissemination of surveillance results. It is a guideline to the practical implementation of collaboration between the animal health, public health and food safety sectors according to different surveillance purposes: surveillance purposes: i) measuring the levels and temporal trends of exposure and burden of disease; ii) supporting early detection and response to outbreaks; iii) identifying risk factors to implement control measures.
+  This work builds upon a report about the mapping of surveillance chains and cross-sectorial linkages for different hazards. 
+  
+  The report is available `here <https://zenodo.org/record/6406150#.Yo-Rcu7P2Ul>`_ 
+  
+  Status of implementation: the guideline is currently under development and is expected to be available late 2022.
+
+
+A guide to design, implement, and evaluate official controls within the food sector using outputbased standards
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+  This is a non-prescriptive guideline for countries, a loose framework to work around the aspects of output-based standards for surveillance in the food sector. The guideline maps out the process, considerations, evaluation strategies etc. depending on what the aims of surveillance are.
+  It can be used i) to assess the current sensitivity of surveillance; ii) to reduce sampling numbers; iii) to
+  implement risk based surveillance; iv) to identify a method to analyse a current surveillance system to ensure
+  it is fit for purpose.
+  
+  Status of implementation: the guideline is currently under development and is expected to be available late 2022.
+
+  
+
