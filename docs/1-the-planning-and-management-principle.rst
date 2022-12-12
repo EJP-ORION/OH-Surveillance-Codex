@@ -172,6 +172,13 @@ A guide to design, implement, and evaluate official controls within the food sec
   it is fit for purpose.
   
   Link to the guideline: https://zenodo.org/record/7390006#.Y5bkJXbMKUk
+  
+ Mapping of food chain surveillance across countries
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
+  This exploratory study was to identify barriers and opportunities for an integrated One Health surveillance of food-borne diseases in selected EU countries. The results from   these studies can be used to support revision of existing systems, or development of new systems for food-borne disease surveillance from a One Health (OH) perspective. 
+  This study was part of One Health  `EJP NOVA <https://onehealthejp.eu/jrp-nova/>`_.
+  The study is available on Zenodo: https://zenodo.org/record/5497346#.Y5NcwuzMLOR
 
   
 
