@@ -90,18 +90,6 @@ National OHS Report Templates
 Training materials and examples for OHS reports
 -----------------------------------------------
 
-
-Webinar: Vaccine and Infection Control days 2021 Norway (Vaksine- og smitteverndager 2021)
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-The vaccine and infection control days in 2021 shed light on various
-current topics within vaccination and infection control and are mainly
-intended for health personnel who work with infection control and / or
-vaccines in both municipal and specialist health services. 
-
-Link:
-https://www.fhi.no/om/kurs-og-konferanser/webinar-vaksine--og-smitteverndager-2021/
-
 Outbreaks of infectious diseases in Norway in 2020. Annual report (Utbrudd av smittsomme sykdommer i Norge i 2020. Årsrapport)
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
