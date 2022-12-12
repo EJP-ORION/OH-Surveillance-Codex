@@ -90,18 +90,6 @@ National OHS Report Templates
 Training materials and examples for OHS reports
 -----------------------------------------------
 
-Outbreak guide Norway (Utbruddsveilederen)
-''''''''''''''''''''''''''''''''''''''''''
-
-The outbreak guide is created to serve municipal doctors and the
-Norwegian Food Safety Authority when it comes to clarifying disease
-outbreaks caused by infection from food, water or animals. The guide
-presents the methods and how the responsibility is distributed as well
-as templates for questionnaires, reports and database to register
-patients, guidelines for cooperation in the municipalities and
-additional litterature.
-
-Link: https://www.fhi.no/nettpub/utbruddsveilederen/
 
 Webinar: Vaccine and Infection Control days 2021 Norway (Vaksine- og smitteverndager 2021)
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
@@ -158,20 +146,6 @@ entire food chain, from farm to fork.
 
 Link:
 https://www.sva.se/media/8d93fbc7f66d298/surveillance-of-infectious-diseases-in-animals-and-humans-in-sweden-2020.pdf
-
-
-Norwegian Infection Control Guide (Smittevernveilederen)
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-The Infection Control Guide is a reference work on the prevention and
-control of infectious diseases. The main target group is employees in
-the municipal health service. The Guide is divided into two main groups;
-a section on various infection control topics and a section on
-individual diseases.
-
-Link:
-
-https://www.fhi.no/nettpub/smittevernveilederen/
 
 
 Examples & Lessons learned
