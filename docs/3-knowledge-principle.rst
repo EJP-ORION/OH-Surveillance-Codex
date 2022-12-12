@@ -153,7 +153,10 @@ Manual for One Health Surveillance Dashboards
   One Health data; iv) the selection of the most suitable technical implementation. It is meant to be
   used as a “companion” when planning or developing a dashboard.
   
-  Status of implementation: the Dashboard Information Centre is available `here. <https://sva-se.github.io/MATRIX-dashboards/>`_ 
+  The Dashboard Information Centre is available `here. <https://sva-se.github.io/MATRIX-dashboards/>`_ 
+  User manual for construction and implementation of One Health dashboards using open source tools (source codes):, https://zenodo.org/record/7398545#.Y43KOMuZOUk
+
+   A  practical  manual  to  the  use  of  dashboards  in One  Health Surveillance practice, including recommendations for sustainability:, https://zenodo.org/record/7398589#.Y49j7HbMJlZ
 
 
 Examples & Lessons learned
