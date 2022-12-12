@@ -157,6 +157,18 @@ Manual for One Health Surveillance Dashboards
   User manual for construction and implementation of One Health dashboards using open source tools (source codes):, https://zenodo.org/record/7398545#.Y43KOMuZOUk
 
    A  practical  manual  to  the  use  of  dashboards  in One  Health Surveillance practice, including recommendations for sustainability:, https://zenodo.org/record/7398589#.Y49j7HbMJlZ
+   
+Webinar: Vaccine and Infection Control days 2021 Norway (Vaksine- og smitteverndager 2021)
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+   The vaccine and infection control days in 2021 shed light on various
+   current topics within vaccination and infection control and are mainly
+   intended for health personnel who work with infection control and / or
+   vaccines in both municipal and specialist health services. 
+
+   Link:
+   https://www.fhi.no/om/kurs-og-konferanser/webinar-vaksine--og-smitteverndager-2021/
+
 
 
 Examples & Lessons learned
