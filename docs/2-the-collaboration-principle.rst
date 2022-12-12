@@ -122,7 +122,7 @@ Interactive guide to developing multi-sectoral surveillance systems
   
     The report is available `here. <https://zenodo.org/record/5062548#.YkHAii3P1PZ>`_ 
   
-    Status of implementation: the tool is currently under development and is expected to be available late 2022.
+    Link to the ressource: https:ejp-matrix.eu/
 
 
 Examples & Lessons learned
