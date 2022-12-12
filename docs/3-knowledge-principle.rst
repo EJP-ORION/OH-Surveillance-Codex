@@ -162,4 +162,4 @@ Examples & Lessons learned
    Several One Health EJP H2020 ORION project partners carry out national 
    pilot studies to test methods from the Knowledge principle regarding 
    usability within a cross sectional approach. Findings from these pilot 
-   studies will be reported here.
+   studies can be found under the project Deliverable 2.7 ( Zenodo: https://doi.org/10.5281/zenodo.5062653).
