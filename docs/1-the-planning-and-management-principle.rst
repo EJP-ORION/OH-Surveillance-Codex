@@ -173,7 +173,7 @@ A guide to design, implement, and evaluate official controls within the food sec
   
   Link to the guideline: https://zenodo.org/record/7390006#.Y5bkJXbMKUk
   
- Mapping of food chain surveillance across countries
+Mapping of food chain surveillance across countries
 '''''''''''''''''''''''''''''''''''''''''''''''''''
 
   This exploratory study was to identify barriers and opportunities for an integrated One Health surveillance of food-borne diseases in selected EU countries. The results from   these studies can be used to support revision of existing systems, or development of new systems for food-borne disease surveillance from a One Health (OH) perspective. 
