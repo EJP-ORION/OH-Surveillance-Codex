@@ -145,7 +145,10 @@ Roadmap to develop national One Health Surveillance
   The roadmap provides step by step instructions on how to work through its different parts. The roadmap also addresses barriers and facilitators between One Health Surveillance sectors, 
   based on the findings of a requirement analysis that is available `here. <https://zenodo.org/record/6504418#.Yo-P3KhByUl>`_ 
   
-  Status of implementation: the roadmap is currently under development and is expected to be available late 2022.  
+ The website with the roadmap (guidelines) for countries to improve One Health Surveillance is available here: https://www.ohras.eu
+
+  The requirement analysis for the Roadmap including a systematic literature review of both peer-reviewed and grey literature is available here: https://zenodo.org/record/6504418#.YmuyAdpByUk
+
 
 
 Best practices to operationalize cross-sectorial collaborations
@@ -156,7 +159,8 @@ Best practices to operationalize cross-sectorial collaborations
   
   The report is available `here <https://zenodo.org/record/6406150#.Yo-Rcu7P2Ul>`_ 
   
-  Status of implementation: the guideline is currently under development and is expected to be available late 2022.
+  The best-practice guidelines are available here: https://zenodo.org/record/7053387#.Y5N6A-zMLOR
+
 
 
 A guide to design, implement, and evaluate official controls within the food sector using outputbased standards
@@ -167,7 +171,7 @@ A guide to design, implement, and evaluate official controls within the food sec
   implement risk based surveillance; iv) to identify a method to analyse a current surveillance system to ensure
   it is fit for purpose.
   
-  Status of implementation: the guideline is currently under development and is expected to be available late 2022.
+  Link to the guideline: https://zenodo.org/record/7390006#.Y5bkJXbMKUk
 
   
 
