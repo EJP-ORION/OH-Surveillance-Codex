@@ -131,7 +131,8 @@ OH-EpiCap tool
   
   More information about the OH-EpiCap tool is available `here. <https://onehealthejp.eu/wp-content/uploads/2022/06/OHEJP_MATRIX_OH-EpiCap_flyer_2022_06.pdf>`_ 
   
-  Status of implementation: the tool is currently being piloted with a beta version of the online tool disseminated mid-2022.
+  OH-EpiCap online application for evaluating the OH capacities of surveillance systems: https://freddietafreeth.shinyapps.io/OH-EpiCap/
+  The Report on the implementation of the OH-EpiCap evaluation tool on several study cases is available here: https://zenodo.org/record/7375651#.Y5Bw1HbMKUk
 
 Roadmap to develop national One Health Surveillance
 '''''''''''''''''''''''''''''''''''''''''''''''''''
